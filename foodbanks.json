@@ -1,0 +1,4457 @@
+[
+  {
+    "lat": 3.0737737,
+    "lng": 101.6624916,
+    "name": "Restoran Lan Je (Taman Tan Yew Lai) Sdn. Bhd."
+  },
+  {
+    "lat": 3.1211045,
+    "lng": 101.5743695,
+    "name": "kEATchen (Ara Damansara)"
+  },
+  {
+    "lat": 2.9965189,
+    "lng": 101.674258,
+    "name": "Restoran Tar Chong"
+  },
+  {
+    "lat": 3.1320761,
+    "lng": 101.6881868,
+    "name": "Hotel Sentral"
+  },
+  {
+    "lat": 3.1208707,
+    "lng": 101.7294627,
+    "name": "Baan Thai 1 Seafood Restaurant"
+  },
+  {
+    "lat": 3.0397586,
+    "lng": 101.6184427,
+    "name": "Co2 Coating Concept"
+  },
+  {
+    "lat": 3.0483832,
+    "lng": 101.5845093,
+    "name": "MDD Restaurant 冇得顶茶室"
+  },
+  {
+    "lat": 2.9951345,
+    "lng": 101.6209057,
+    "name": "BMS Organics Puchong Utama"
+  },
+  {
+    "lat": 2.9709105,
+    "lng": 101.8279735,
+    "name": "Fat Boss Fish Ball Yong Tau Fu"
+  },
+  {
+    "lat": 3.025082,
+    "lng": 101.628672,
+    "name": "Kai Xin"
+  },
+  {
+    "lat": 3.0528025,
+    "lng": 101.6233476,
+    "name": "Shell"
+  },
+  {
+    "lat": 2.9299425,
+    "lng": 101.7006437,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0714116,
+    "lng": 101.4448797,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.1189162,
+    "lng": 101.4406728,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0773574,
+    "lng": 101.4323257,
+    "name": "Shell"
+  },
+  {
+    "lat": 2.9831742,
+    "lng": 101.4414159,
+    "name": "Shell"
+  },
+  {
+    "lat": 2.9908715,
+    "lng": 101.4477986,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0158846,
+    "lng": 101.4243147,
+    "name": "Shell"
+  },
+  {
+    "lat": 2.8729321,
+    "lng": 101.5024981,
+    "name": "Shell"
+  },
+  {
+    "lat": 2.793639,
+    "lng": 101.487232,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0853966,
+    "lng": 101.5847055,
+    "name": "Shell Federal Highway (KM18.5)"
+  },
+  {
+    "lat": 3.066067,
+    "lng": 101.491232,
+    "name": "Shell Seksyen 7"
+  },
+  {
+    "lat": 2.9972908,
+    "lng": 101.526538,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0442834,
+    "lng": 101.5157469,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0243947,
+    "lng": 101.4424188,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0315967,
+    "lng": 101.5862792,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0510777,
+    "lng": 101.5834234,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0661642,
+    "lng": 101.5798366,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0220049,
+    "lng": 101.5815832,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0490828,
+    "lng": 101.6334204,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.073834,
+    "lng": 101.6594245,
+    "name": "Shell Jalan Puchong"
+  },
+  {
+    "lat": 3.1029646,
+    "lng": 101.5967467,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0379768,
+    "lng": 101.643032,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0123792,
+    "lng": 101.6151552,
+    "name": "Shell Bandar Putri Puchong"
+  },
+  {
+    "lat": 3.0209509,
+    "lng": 101.5948587,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0653576,
+    "lng": 101.6497847,
+    "name": "Shell"
+  },
+  {
+    "lat": 2.9594842,
+    "lng": 101.6176745,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.3116213,
+    "lng": 101.5809119,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.3124637,
+    "lng": 101.4189045,
+    "name": "Shell Ijok"
+  },
+  {
+    "lat": 3.2337005,
+    "lng": 101.4503865,
+    "name": "Shell Puncak Alam"
+  },
+  {
+    "lat": 3.1437426,
+    "lng": 101.6161089,
+    "name": "Shell"
+  },
+  {
+    "lat": 2.9473361,
+    "lng": 101.7870427,
+    "name": "Shell"
+  },
+  {
+    "lat": 2.9693897,
+    "lng": 101.749207,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.194541,
+    "lng": 101.577332,
+    "name": "Shell Kg Baru Sungai Buloh - SpeedFuel Enterprise"
+  },
+  {
+    "lat": 3.2082686,
+    "lng": 101.6147107,
+    "name": "Shell"
+  },
+  {
+    "lat": 2.985217,
+    "lng": 101.8139415,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.462033,
+    "lng": 101.6552829,
+    "name": "Shell"
+  },
+  {
+    "lat": 2.9676949,
+    "lng": 101.7742661,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.1734488,
+    "lng": 101.5759454,
+    "name": "Shell Kota Damansara Seksyen 7"
+  },
+  {
+    "lat": 3.0500243,
+    "lng": 101.5622767,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0092151,
+    "lng": 101.5992479,
+    "name": "Shell Puchong Permai"
+  },
+  {
+    "lat": 2.9132047,
+    "lng": 101.6885201,
+    "name": "Shell Presint 18"
+  },
+  {
+    "lat": 2.932843,
+    "lng": 101.6792796,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.009149,
+    "lng": 101.80261,
+    "name": "Giant Superstore Prima Saujana"
+  },
+  {
+    "lat": 3.0777941,
+    "lng": 101.6805807,
+    "name": "99 Speedmart 1671 Taman Bandaraya"
+  },
+  {
+    "lat": 3.0732499,
+    "lng": 101.6670475,
+    "name": "99 Speedmart 2088 Taman Yarl"
+  },
+  {
+    "lat": 3.0676189,
+    "lng": 101.6581229,
+    "name": "99 Speedmart 1662 Taman OUG Parklane"
+  },
+  {
+    "lat": 3.0620823,
+    "lng": 101.6465815,
+    "name": "99 Speedmart 2059 Taman Paik Siong"
+  },
+  {
+    "lat": 3.06051,
+    "lng": 101.668083,
+    "name": "99 Speedmart 1468 Bukit Jalil 2"
+  },
+  {
+    "lat": 3.0123098,
+    "lng": 101.4881206,
+    "name": "99 Speedmart 1017 Kampung Jawa"
+  },
+  {
+    "lat": 3.034916,
+    "lng": 101.617836,
+    "name": "99 Speedmart 1472 Pusat Bandar Puchong 2"
+  },
+  {
+    "lat": 3.0672,
+    "lng": 101.490082,
+    "name": "99 Speedmart 1080 Shah Alam Sek 7 (1)"
+  },
+  {
+    "lat": 3.076385,
+    "lng": 101.604233,
+    "name": "99 Speedmart 1156 Taman Dato Hormat"
+  },
+  {
+    "lat": 3.2011523,
+    "lng": 101.6243921,
+    "name": "99 Speedmart 1226 Bandar Baru Sri Damansara"
+  },
+  {
+    "lat": 3.210007,
+    "lng": 101.564835,
+    "name": "99 Speedmart 1177 Bandar Baru Sungai Buloh"
+  },
+  {
+    "lat": 3.1233514,
+    "lng": 101.7227719,
+    "name": "99 Speedmart 1631 Taman Miharja"
+  },
+  {
+    "lat": 3.0782117,
+    "lng": 101.7641535,
+    "name": "Econsave Alam Jaya"
+  },
+  {
+    "lat": 2.9799959,
+    "lng": 101.5334952,
+    "name": "Econsave"
+  },
+  {
+    "lat": 3.0134115,
+    "lng": 101.4892221,
+    "name": "Econsave"
+  },
+  {
+    "lat": 3.1279892,
+    "lng": 101.4671871,
+    "name": "Econsave"
+  },
+  {
+    "lat": 3.137944,
+    "lng": 101.529757,
+    "name": "Econsave Kampung Baru Subang"
+  },
+  {
+    "lat": 3.149072,
+    "lng": 101.5443617,
+    "name": "Econsave"
+  },
+  {
+    "lat": 3.0912466,
+    "lng": 101.7626571,
+    "name": "Econsave Segar Perdana"
+  },
+  {
+    "lat": 3.0942673,
+    "lng": 101.6747938,
+    "name": "Econsave"
+  },
+  {
+    "lat": 3.2011111,
+    "lng": 101.5572222,
+    "name": "Econsave"
+  },
+  {
+    "lat": 3.1973189,
+    "lng": 101.5932123,
+    "name": "Econsave"
+  },
+  {
+    "lat": 3.3276074,
+    "lng": 101.5291429,
+    "name": "Songkhla Thai Restaurant, Bandar Country Homes"
+  },
+  {
+    "lat": 3.0469763,
+    "lng": 101.7712639,
+    "name": "Little Giraffe Story House"
+  },
+  {
+    "lat": 3.0831444,
+    "lng": 101.6277999,
+    "name": "ELEWSMART Taman Medan Jaya"
+  },
+  {
+    "lat": 3.0708985,
+    "lng": 101.5554738,
+    "name": "ELEWSMART Shah Alam Seksyen 22"
+  },
+  {
+    "lat": 3.0616679,
+    "lng": 101.7105912,
+    "name": "ELEWSMART Sg. Besi"
+  },
+  {
+    "lat": 3.0354846,
+    "lng": 101.7639971,
+    "name": "ELEWSMART Dataran Perniagaan Cheras"
+  },
+  {
+    "lat": 2.9631832,
+    "lng": 101.7530742,
+    "name": "ELEWSMART BANGI"
+  },
+  {
+    "lat": 2.8871479,
+    "lng": 101.7798526,
+    "name": "Elewsmart Bandar Seri Putra"
+  },
+  {
+    "lat": 2.8194301,
+    "lng": 101.6941095,
+    "name": "ELEWSMART Kota Warisan"
+  },
+  {
+    "lat": 3.208841,
+    "lng": 101.7190046,
+    "name": "ELEWSMART Danau Kota"
+  },
+  {
+    "lat": 3.1543977,
+    "lng": 101.6030359,
+    "name": "ELEWSMART Pelangi Square"
+  },
+  {
+    "lat": 3.23719,
+    "lng": 101.6998901,
+    "name": "Elewsmart Prima Sri Gombak"
+  },
+  {
+    "lat": 3.1984747,
+    "lng": 101.7126937,
+    "name": "Mama Mee 夜宵食堂@Setapak"
+  },
+  {
+    "lat": 3.078439,
+    "lng": 101.5468931,
+    "name": "Petronas Section 13 ( GANDA MESRA )"
+  },
+  {
+    "lat": 3.2456605,
+    "lng": 101.6520167,
+    "name": "Mini Hero Charity"
+  },
+  {
+    "lat": 3.0770774,
+    "lng": 101.5588998,
+    "name": "Tanah Aina Cafe"
+  },
+  {
+    "lat": 3.3278343,
+    "lng": 101.5794983,
+    "name": "Pusat Khidmat Rakyat Dewan Negeri Rawang"
+  },
+  {
+    "lat": 3.3517808,
+    "lng": 101.581871,
+    "name": "Pusat Khidmat Rakyat Parlimen Hulu Selangor"
+  },
+  {
+    "lat": 3.557262,
+    "lng": 101.657973,
+    "name": "Pusat Khidmat ADUN Kuala Kubu Bharu"
+  },
+  {
+    "lat": 3.416759,
+    "lng": 101.5551874,
+    "name": "Pejabat ADUN Batang Kali"
+  },
+  {
+    "lat": 2.9970977,
+    "lng": 101.5231521,
+    "name": "7, Jalan Sungai Burung 32/72"
+  },
+  {
+    "lat": 3.010498,
+    "lng": 101.451852,
+    "name": "House Of Love (Pertubuhan Rumah Anak Yatim Berkat Kasih)福爱之家儿童院"
+  },
+  {
+    "lat": 2.877113,
+    "lng": 101.5024411,
+    "name": "Solar@Jenjarom"
+  },
+  {
+    "lat": 2.8103604,
+    "lng": 101.4994081,
+    "name": "BBQ X BEER"
+  },
+  {
+    "lat": 3.1946278,
+    "lng": 101.585084,
+    "name": "Kedai Makan Abang Tukang Masak"
+  },
+  {
+    "lat": 3.0561664,
+    "lng": 101.6062919,
+    "name": "Ayam Cincang 7 Warisan"
+  },
+  {
+    "lat": 3.1783526,
+    "lng": 101.7412603,
+    "name": "Insaf Malaysia Technical Relief"
+  },
+  {
+    "lat": 3.2564695,
+    "lng": 101.6573115,
+    "name": "Pusat Khidmat Masyarakat Dun Taman Templer"
+  },
+  {
+    "lat": 3.203864,
+    "lng": 101.7033246,
+    "name": "Al Badr Supermarket 2"
+  },
+  {
+    "lat": 3.0781333,
+    "lng": 101.7200761,
+    "name": "Food Aid Foundation"
+  },
+  {
+    "lat": 3.0639759,
+    "lng": 101.7110831,
+    "name": "Klinik Rakan Medik"
+  },
+  {
+    "lat": 3.2043743,
+    "lng": 101.6656645,
+    "name": "Kantin Mu Zi 木子食堂"
+  },
+  {
+    "lat": 3.2168322,
+    "lng": 101.6439053,
+    "name": "Doremi Private Kitchen"
+  },
+  {
+    "lat": 3.2168992,
+    "lng": 101.6454471,
+    "name": "Restoran Kmk"
+  },
+  {
+    "lat": 3.2265251,
+    "lng": 101.5670295,
+    "name": "ELEWSMART Sg. Buloh"
+  },
+  {
+    "lat": 2.9967329,
+    "lng": 101.8145909,
+    "name": "ELEWSMART Kajang"
+  },
+  {
+    "lat": 3.1916208,
+    "lng": 101.6595735,
+    "name": "22, Jalan Udang Harimau 2"
+  },
+  {
+    "lat": 3.0789199,
+    "lng": 101.646946,
+    "name": "PETRONAS Petaling Utama"
+  },
+  {
+    "lat": 3.0135268,
+    "lng": 101.6219101,
+    "name": "Petronas"
+  },
+  {
+    "lat": 3.0737238,
+    "lng": 101.5841399,
+    "name": "Petronas"
+  },
+  {
+    "lat": 3.07446,
+    "lng": 101.6374295,
+    "name": "Petronas Taman Medan"
+  },
+  {
+    "lat": 3.0531571,
+    "lng": 101.6235368,
+    "name": "PETRONAS Puchong Jaya"
+  },
+  {
+    "lat": 3.0461927,
+    "lng": 101.6419938,
+    "name": "Petronas - Bandar Kinrara ( Zaz )"
+  },
+  {
+    "lat": 3.0887707,
+    "lng": 101.6136995,
+    "name": "NGV Petronas. Sg Way"
+  },
+  {
+    "lat": 3.081428,
+    "lng": 101.6183317,
+    "name": "PETRONAS Desa Mentari (kaizaton)"
+  },
+  {
+    "lat": 3.076304,
+    "lng": 101.6543236,
+    "name": "PETRONAS Sri Sentosa"
+  },
+  {
+    "lat": 2.9991604,
+    "lng": 101.6119212,
+    "name": "Petronas (MOLIZA ENTERPRISE)"
+  },
+  {
+    "lat": 2.9197715,
+    "lng": 101.6587065,
+    "name": "Petronas Cyberjaya (Arafoil Resources)"
+  },
+  {
+    "lat": 3.067281,
+    "lng": 101.5324728,
+    "name": "PETRONAS - Federal Highway Arah Klang (KM 12.3)"
+  },
+  {
+    "lat": 3.134837,
+    "lng": 101.7188632,
+    "name": "Petronas Jalan Cochrane"
+  },
+  {
+    "lat": 3.2754738,
+    "lng": 101.4755804,
+    "name": "Petronas Bandar Tasik Puteri ( HIDAYAT IDRIS )"
+  },
+  {
+    "lat": 3.2128139,
+    "lng": 101.7085784,
+    "name": "Petronas Batu 5 Jalan Gombak"
+  },
+  {
+    "lat": 3.2041863,
+    "lng": 101.6080749,
+    "name": "Petronas Kepong Industrial Park"
+  },
+  {
+    "lat": 3.2695307,
+    "lng": 101.5090625,
+    "name": "PETRONAS - Kundang Barat LATAR"
+  },
+  {
+    "lat": 3.2711104,
+    "lng": 101.5073161,
+    "name": "PETRONAS - Kundang Timur Latar"
+  },
+  {
+    "lat": 3.1451594,
+    "lng": 101.755466,
+    "name": "PETRONAS Taman Dagang"
+  },
+  {
+    "lat": 3.2351319,
+    "lng": 101.6920847,
+    "name": "Petronas Taman Samudera"
+  },
+  {
+    "lat": 3.0993287,
+    "lng": 101.8025496,
+    "name": "Petronas Bukit Nanding"
+  },
+  {
+    "lat": 3.091453,
+    "lng": 101.711282,
+    "name": "PETRONAS - East West Link"
+  },
+  {
+    "lat": 3.0510738,
+    "lng": 101.7869353,
+    "name": "PETRONAS - Bandar Mahkota Cheras (EMIZAF JAYA)"
+  },
+  {
+    "lat": 3.0081177,
+    "lng": 101.8034899,
+    "name": "PETRONAS - Prima Saujana 2 (Permata Saujana Enterprise)"
+  },
+  {
+    "lat": 2.9390263,
+    "lng": 101.7753489,
+    "name": "NGV PETRONAS @ Seksyen 3 Bangi"
+  },
+  {
+    "lat": 3.0360318,
+    "lng": 101.7844751,
+    "name": "PETRONAS - Taman Rakan, Cheras"
+  },
+  {
+    "lat": 3.1363168,
+    "lng": 101.4113806,
+    "name": "PETRONAS JALAN HAMZAH ALANG"
+  },
+  {
+    "lat": 3.0332706,
+    "lng": 101.4533114,
+    "name": "Petronas Kampung Jawa"
+  },
+  {
+    "lat": 2.9448137,
+    "lng": 101.5878462,
+    "name": "Petronas Bandar Saujana Putra"
+  },
+  {
+    "lat": 2.8013137,
+    "lng": 101.4931264,
+    "name": "Petronas Banting (Koriah Sudar 199003002378 / 000837060-T)"
+  },
+  {
+    "lat": 2.885189,
+    "lng": 101.492118,
+    "name": "Petronas @ Jenjarum"
+  },
+  {
+    "lat": 3.2204992,
+    "lng": 101.4461791,
+    "name": "Petronas Puncak Alam 1"
+  },
+  {
+    "lat": 3.076776,
+    "lng": 101.5593811,
+    "name": "Petronas Batu 3 Shah Alam"
+  },
+  {
+    "lat": 3.0807645,
+    "lng": 101.5722642,
+    "name": "Petronas Batu 3 Federal Highway"
+  },
+  {
+    "lat": 3.1158083,
+    "lng": 101.526937,
+    "name": "Petronas Bukit Jelutong"
+  },
+  {
+    "lat": 3.2243772,
+    "lng": 101.5566619,
+    "name": "Petronas Bukit Rahman Putra ATM CIMB, NGV, LPG, Tealive & McD"
+  },
+  {
+    "lat": 2.9947594,
+    "lng": 101.6759635,
+    "name": "Petronas Taman Equine 1"
+  },
+  {
+    "lat": 3.0953337,
+    "lng": 101.5562159,
+    "name": "PETRONAS Glenmarie TTDI Jaya"
+  },
+  {
+    "lat": 3.0689118,
+    "lng": 101.4904252,
+    "name": "Petronas Jalan Plumbum Seksyen 7"
+  },
+  {
+    "lat": 3.1425401,
+    "lng": 101.5328862,
+    "name": "PETRONAS - Kampung Baru Subang"
+  },
+  {
+    "lat": 2.9790249,
+    "lng": 101.6130079,
+    "name": "Petronas"
+  },
+  {
+    "lat": 3.2242966,
+    "lng": 101.4962382,
+    "name": "PETRONAS Merbau Indah (Stesen Mi Mesra)"
+  },
+  {
+    "lat": 3.1192383,
+    "lng": 101.5928717,
+    "name": "Petronas NKVE"
+  },
+  {
+    "lat": 3.100405,
+    "lng": 101.5903501,
+    "name": "PETRONAS (MH GLOBAL)"
+  },
+  {
+    "lat": 3.0763498,
+    "lng": 101.4941004,
+    "name": "PETRONAS - Persiaran Kayangan"
+  },
+  {
+    "lat": 3.0190149,
+    "lng": 101.5751243,
+    "name": "PETRONAS Putra Bistari"
+  },
+  {
+    "lat": 3.0635775,
+    "lng": 101.5243987,
+    "name": "Petronas Seksyen 15"
+  },
+  {
+    "lat": 3.0448765,
+    "lng": 101.5153144,
+    "name": "Petronas Seksyen 18 (Hanz Biz)"
+  },
+  {
+    "lat": 3.0836361,
+    "lng": 101.5073463,
+    "name": "Petronas Seksyen 6 Shah Alam"
+  },
+  {
+    "lat": 3.1093145,
+    "lng": 101.4477475,
+    "name": "Petronas Setia Alam"
+  },
+  {
+    "lat": 3.2244251,
+    "lng": 101.5770602,
+    "name": "Petronas Sg Buloh Layby"
+  },
+  {
+    "lat": 3.1171387,
+    "lng": 101.5654568,
+    "name": "Petronas Subang Airport - Midcity Gas Station"
+  },
+  {
+    "lat": 3.0842192,
+    "lng": 101.5833528,
+    "name": "PETRONAS Temasya Federal Highway"
+  },
+  {
+    "lat": 3.0575535,
+    "lng": 101.5914718,
+    "name": "Petronas"
+  },
+  {
+    "lat": 2.9104004,
+    "lng": 101.6093152,
+    "name": "Petronas Elite Highway"
+  },
+  {
+    "lat": 3.077702,
+    "lng": 101.7136732,
+    "name": "PETRONAS Bandar Tun Razak"
+  },
+  {
+    "lat": 3.18744,
+    "lng": 101.6703806,
+    "name": "Petronas Jalan Kuching"
+  },
+  {
+    "lat": 3.1777294,
+    "lng": 101.7435244,
+    "name": "Petronas Taman Setiawangsa"
+  },
+  {
+    "lat": 3.302994,
+    "lng": 101.599555,
+    "name": "Restoran Fook Sheng Sdn. Bhd."
+  },
+  {
+    "lat": 3.3250075,
+    "lng": 101.5707861,
+    "name": "Aj Super Taste Restaurant"
+  },
+  {
+    "lat": 3.3184604,
+    "lng": 101.5736675,
+    "name": "Ah Wah Sea Food Restaurant"
+  },
+  {
+    "lat": 3.2167749,
+    "lng": 101.6284745,
+    "name": "New Ban Lee Restaurant"
+  },
+  {
+    "lat": 3.2208117,
+    "lng": 101.624282,
+    "name": "Petron Taman Ehsan"
+  },
+  {
+    "lat": 2.9967859,
+    "lng": 101.6743999,
+    "name": "HerbaLine @ Equine Park"
+  },
+  {
+    "lat": 3.0896884,
+    "lng": 101.6873747,
+    "name": "Pasaraya TY Sdn. Bhd."
+  },
+  {
+    "lat": 3.0582069,
+    "lng": 101.7518055,
+    "name": "66, Jalan Bahagia 6"
+  },
+  {
+    "lat": 3.0899482,
+    "lng": 101.6864081,
+    "name": "21, Jalan Kuchai Maju 7"
+  },
+  {
+    "lat": 3.091043,
+    "lng": 101.689033,
+    "name": "Restaurant Hao Wan"
+  },
+  {
+    "lat": 3.0703895,
+    "lng": 101.6094852,
+    "name": "Caffeinees (Sunway - EGG)"
+  },
+  {
+    "lat": 3.1383846,
+    "lng": 101.7240885,
+    "name": "Caffeinees (Kampung Pandan)"
+  },
+  {
+    "lat": 3.0089723,
+    "lng": 101.6134806,
+    "name": "Caffeinees (Puchong)"
+  },
+  {
+    "lat": 3.0914678,
+    "lng": 101.6862083,
+    "name": "Caffeinees, Kuchai Lama"
+  },
+  {
+    "lat": 3.0411088,
+    "lng": 101.6253973,
+    "name": "Kedai Sayur-sayuran Kek Tak Theng"
+  },
+  {
+    "lat": 2.9884264,
+    "lng": 101.4547739,
+    "name": "Olive Grocer"
+  },
+  {
+    "lat": 2.9938716,
+    "lng": 101.5712509,
+    "name": "De Chiffon World"
+  },
+  {
+    "lat": 3.0451152,
+    "lng": 101.6231517,
+    "name": "Cerdito Restaurant"
+  },
+  {
+    "lat": 3.0326973,
+    "lng": 101.6147126,
+    "name": "Uncle Kentang 马铃薯叔叔日志"
+  },
+  {
+    "lat": 2.9705576,
+    "lng": 101.8277268,
+    "name": "45, Jalan 1/10"
+  },
+  {
+    "lat": 2.9904311,
+    "lng": 101.4700743,
+    "name": "Lorong Pending 1c"
+  },
+  {
+    "lat": 3.1877473,
+    "lng": 101.6420825,
+    "name": "The HENTZ 鮮谷肉店"
+  },
+  {
+    "lat": 3.0895759,
+    "lng": 101.7431667,
+    "name": "Babalala Cheras"
+  },
+  {
+    "lat": 3.2196756,
+    "lng": 101.6291823,
+    "name": "Bomba Sukarela Kepong"
+  },
+  {
+    "lat": 3.0092664,
+    "lng": 101.4173753,
+    "name": "168 Restaurant Pandamaran"
+  },
+  {
+    "lat": 3.138393,
+    "lng": 101.772945,
+    "name": "1, Jalan Watan 7"
+  },
+  {
+    "lat": 3.0048037,
+    "lng": 101.7099767,
+    "name": "Old Flat Serdang"
+  },
+  {
+    "lat": 3.0469763,
+    "lng": 101.7712639,
+    "name": "Yue Coffee Bar"
+  },
+  {
+    "lat": 3.5217888,
+    "lng": 101.911653,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.1329623,
+    "lng": 101.7164777,
+    "name": "Foong Lian Clay Pot Foods Café (Pudu)"
+  },
+  {
+    "lat": 3.0983607,
+    "lng": 101.4625411,
+    "name": "Shell Setia Alam"
+  },
+  {
+    "lat": 2.9456524,
+    "lng": 101.6140081,
+    "name": "Malakat Grocer 812 Putra Perdana"
+  },
+  {
+    "lat": 2.9248559,
+    "lng": 101.6499143,
+    "name": "Malakat Grocer @ Malakat Mall"
+  },
+  {
+    "lat": 3.1471846,
+    "lng": 101.7708544,
+    "name": "Malakat Grocer"
+  },
+  {
+    "lat": 3.2334105,
+    "lng": 101.7019994,
+    "name": "Malakat Grocer @ Greenwood"
+  },
+  {
+    "lat": 3.066317,
+    "lng": 101.743401,
+    "name": "Malakat Grocer Alam Damai"
+  },
+  {
+    "lat": 3.0919555,
+    "lng": 101.700427,
+    "name": "Ninso Plaza 63"
+  },
+  {
+    "lat": 2.9843052,
+    "lng": 101.668728,
+    "name": "Ninso Seri Kembangan"
+  },
+  {
+    "lat": 3.0346787,
+    "lng": 101.7617223,
+    "name": "Ninso Balakong"
+  },
+  {
+    "lat": 3.2429234,
+    "lng": 101.6612991,
+    "name": "Ninso Selayang"
+  },
+  {
+    "lat": 3.1512098,
+    "lng": 101.7609846,
+    "name": "Ninso Ampang"
+  },
+  {
+    "lat": 3.0650269,
+    "lng": 101.524682,
+    "name": "Restoran Temerloh Catering"
+  },
+  {
+    "lat": 3.181291,
+    "lng": 101.5424674,
+    "name": "Ajwa Bakery Subang U5"
+  },
+  {
+    "lat": 3.1620771,
+    "lng": 101.6256463,
+    "name": "Madu Quad"
+  },
+  {
+    "lat": 3.1846636,
+    "lng": 101.7602504,
+    "name": "Dewan Orang Ramai Flat UTM"
+  },
+  {
+    "lat": 3.1308223,
+    "lng": 101.7539683,
+    "name": "KW restaurant好地方美食中心"
+  },
+  {
+    "lat": 3.1541982,
+    "lng": 101.5918133,
+    "name": "V Pro Pharmacy Kota Damansara"
+  },
+  {
+    "lat": 3.058574,
+    "lng": 101.673662,
+    "name": "V Pro Pharmacy Bukit Jalil"
+  },
+  {
+    "lat": 3.021534,
+    "lng": 101.579535,
+    "name": "V Pro Pharmacy One City"
+  },
+  {
+    "lat": 3.2114986,
+    "lng": 101.5614186,
+    "name": "SB Elektrik & Elektronik Sdn Bhd"
+  },
+  {
+    "lat": 2.693121,
+    "lng": 101.9307629,
+    "name": "Balai Raya Taman Bukit Chedang"
+  },
+  {
+    "lat": 3.0881815,
+    "lng": 101.6170953,
+    "name": "16 Kopitiam (16间茶餐室）"
+  },
+  {
+    "lat": 3.1071689,
+    "lng": 101.653364,
+    "name": "TTC Education 名师教育"
+  },
+  {
+    "lat": 3.1008306,
+    "lng": 101.7416612,
+    "name": "Klinik Yap & Looi"
+  },
+  {
+    "lat": 3.119373,
+    "lng": 101.759936,
+    "name": "Big Pharmacy Taman Muda, Cheras"
+  },
+  {
+    "lat": 3.1029116,
+    "lng": 101.7331112,
+    "name": "BIG Pharmacy Taman Midah"
+  },
+  {
+    "lat": 3.08144,
+    "lng": 101.7372995,
+    "name": "BIG Pharmacy Taman Connaught"
+  },
+  {
+    "lat": 3.2165362,
+    "lng": 101.6590837,
+    "name": "FunGates Superflow Foundation"
+  },
+  {
+    "lat": 3.2122758,
+    "lng": 101.711273,
+    "name": "BIG Pharmacy Medan Idaman"
+  },
+  {
+    "lat": 3.2051203,
+    "lng": 101.7217874,
+    "name": "Supercube"
+  },
+  {
+    "lat": 3.2087328,
+    "lng": 101.7286929,
+    "name": "Balak.Co"
+  },
+  {
+    "lat": 3.2002857,
+    "lng": 101.7137912,
+    "name": "Persatuan Empayar Kebajikan Malaysia (EMPIRE PROJECT)"
+  },
+  {
+    "lat": 3.210257,
+    "lng": 101.718779,
+    "name": "Suri Restaurant & Catering"
+  },
+  {
+    "lat": 2.970773,
+    "lng": 101.766958,
+    "name": "Food Bank MA Insaniah Selangor"
+  },
+  {
+    "lat": 3.0448973,
+    "lng": 101.5872423,
+    "name": "Masjid Al Falah"
+  },
+  {
+    "lat": 3.0228751,
+    "lng": 101.7784001,
+    "name": "Madrasah Tahfiz Al-Aziz"
+  },
+  {
+    "lat": 2.9316927,
+    "lng": 101.7532196,
+    "name": "Masjid Kampung Sungai Merab Luar"
+  },
+  {
+    "lat": 2.9678155,
+    "lng": 101.8214875,
+    "name": "Pasti AsSyakirin"
+  },
+  {
+    "lat": 3.0042907,
+    "lng": 101.400771,
+    "name": "Masjid Jamek Samadiah Port Klang"
+  },
+  {
+    "lat": 3.2097833,
+    "lng": 101.7524914,
+    "name": "Melawati Nasi Ayam Hainam Singapore"
+  },
+  {
+    "lat": 2.9936308,
+    "lng": 101.6511297,
+    "name": "Lesong Mart Seri Kembangan"
+  },
+  {
+    "lat": 2.9834899,
+    "lng": 101.6722408,
+    "name": "RESTORAN ZAM-ZAM UTARA"
+  },
+  {
+    "lat": 3.0085295,
+    "lng": 101.7139967,
+    "name": "Multicare Pharmacy Sri Serdang"
+  },
+  {
+    "lat": 3.0179649,
+    "lng": 101.675399,
+    "name": "Restaurant Al-Aliff Corner"
+  },
+  {
+    "lat": 2.994643,
+    "lng": 101.6785442,
+    "name": "RESTORAN ILA"
+  },
+  {
+    "lat": 3.0448973,
+    "lng": 101.5872423,
+    "name": "Masjid Al Falah"
+  },
+  {
+    "lat": 3.0433164,
+    "lng": 101.5891673,
+    "name": "44, Jalan USJ 8/2a"
+  },
+  {
+    "lat": 3.0493472,
+    "lng": 101.5836336,
+    "name": "JDV CAFE"
+  },
+  {
+    "lat": 3.1165442,
+    "lng": 101.6128519,
+    "name": "YILO RESTAURANT & BAR"
+  },
+  {
+    "lat": 3.2984671,
+    "lng": 101.5894118,
+    "name": "Surau Taman Tun Teja"
+  },
+  {
+    "lat": 3.3424514,
+    "lng": 101.513456,
+    "name": "SURAU AL IKHLAS SAUJANA RAWANG"
+  },
+  {
+    "lat": 3.1887273,
+    "lng": 101.6053273,
+    "name": "BIG Pharmacy Sri Damansara"
+  },
+  {
+    "lat": 3.0632528,
+    "lng": 101.6467269,
+    "name": "Laundry 4 U"
+  },
+  {
+    "lat": 3.1060925,
+    "lng": 101.6054526,
+    "name": "Surau Al-ittifaqiah"
+  },
+  {
+    "lat": 3.0486732,
+    "lng": 101.5337162,
+    "name": "BIG Pharmacy Seksyen 19 Shah Alam (Formerly known as RedCap)"
+  },
+  {
+    "lat": 3.1483598,
+    "lng": 101.5462698,
+    "name": "BIG Pharmacy Subang Perdana"
+  },
+  {
+    "lat": 3.108969,
+    "lng": 101.6240019,
+    "name": "PopoMama Confinement Food Delivery PJ & KL"
+  },
+  {
+    "lat": 3.0550381,
+    "lng": 101.6056239,
+    "name": "J&T Express Subang Jaya USJ 1 (PJS408)"
+  },
+  {
+    "lat": 3.0386381,
+    "lng": 101.5890424,
+    "name": "Restoran Yong Sheng 永勝咖啡店"
+  },
+  {
+    "lat": 3.0624252,
+    "lng": 101.6686738,
+    "name": "Nathan's Corner Bukit OUG Condominium"
+  },
+  {
+    "lat": 3.0787792,
+    "lng": 101.7418898,
+    "name": "Connaught Avenue"
+  },
+  {
+    "lat": 3.0464765,
+    "lng": 101.6467113,
+    "name": "Restoran 86"
+  },
+  {
+    "lat": 4.5483361,
+    "lng": 101.0901382,
+    "name": "NTS Home Improvement (Panorama Lapangan Perdana)"
+  },
+  {
+    "lat": 3.1959955,
+    "lng": 101.6091421,
+    "name": "Petronas Bandar Sri Damansara"
+  },
+  {
+    "lat": 3.0879197,
+    "lng": 101.7368568,
+    "name": "J&T Express Taman Taynton View (KUL421)"
+  },
+  {
+    "lat": 3.3228205,
+    "lng": 101.575108,
+    "name": "Kedai Kopi Kim Kim"
+  },
+  {
+    "lat": 3.1015935,
+    "lng": 101.7295927,
+    "name": "Pusat Rukun Tetangga"
+  },
+  {
+    "lat": 3.0239803,
+    "lng": 101.7024632,
+    "name": "Kalvin"
+  },
+  {
+    "lat": 2.9962534,
+    "lng": 101.6730041,
+    "name": "Gan Ens Serdang Vegetarian Restaurant"
+  },
+  {
+    "lat": 3.0899514,
+    "lng": 101.6901905,
+    "name": "Hailam Vege Kopitiam 海南頭素食餐廳"
+  },
+  {
+    "lat": 3.0595032,
+    "lng": 101.6103677,
+    "name": "Bandar Sunway Gospel Centre"
+  },
+  {
+    "lat": 3.0768578,
+    "lng": 101.679034,
+    "name": "Fo Guang Vegetarian Restaurant"
+  },
+  {
+    "lat": 3.0219487,
+    "lng": 101.6987543,
+    "name": "Restoran Sayur-Sayuran Foh Kuang"
+  },
+  {
+    "lat": 2.8100073,
+    "lng": 101.4976945,
+    "name": "Fo Guang Banting Vegetarian Restaurant"
+  },
+  {
+    "lat": 3.0467071,
+    "lng": 101.7402078,
+    "name": "Fookuang Vegetarian Fast Food"
+  },
+  {
+    "lat": 2.9954893,
+    "lng": 101.6215611,
+    "name": "Red Dragonfly Educare Day Care Centre"
+  },
+  {
+    "lat": 3.0440769,
+    "lng": 101.6218738,
+    "name": "Restoran Soon Lok Roast Duck (Puchong Jaya Branch)"
+  },
+  {
+    "lat": 3.0453266,
+    "lng": 101.6234989,
+    "name": "Fu Wah Restaurant"
+  },
+  {
+    "lat": 3.04564,
+    "lng": 101.6228351,
+    "name": "Moonlight Cake House (Puchong)"
+  },
+  {
+    "lat": 3.3181878,
+    "lng": 101.5362985,
+    "name": "CB Grocer Sdn Bhd"
+  },
+  {
+    "lat": 3.0873333,
+    "lng": 101.6898845,
+    "name": "Shell Kuchai Lama"
+  },
+  {
+    "lat": 3.2135351,
+    "lng": 101.6411935,
+    "name": "2, Jalan Prima 1"
+  },
+  {
+    "lat": 3.0135898,
+    "lng": 101.6962835,
+    "name": "KLINIK NAVIS OLIVE HILL"
+  },
+  {
+    "lat": 3.0645381,
+    "lng": 101.6935693,
+    "name": "BHPetrol Taman Sri Endah"
+  },
+  {
+    "lat": 3.073088,
+    "lng": 101.653227,
+    "name": "Kedai Makanan BW Pasifik"
+  },
+  {
+    "lat": 2.9816314,
+    "lng": 101.664849,
+    "name": "TW TRYE AUTO SERVICES"
+  },
+  {
+    "lat": 2.9927913,
+    "lng": 101.6216879,
+    "name": "陰陽寶殿城隍廟"
+  },
+  {
+    "lat": 3.1205705,
+    "lng": 101.742006,
+    "name": "Restaurant San Gong Li"
+  },
+  {
+    "lat": 3.1951887,
+    "lng": 101.7110077,
+    "name": "Sweet Forest Cafe"
+  },
+  {
+    "lat": 3.1947292,
+    "lng": 101.7112613,
+    "name": "MH Avenue"
+  },
+  {
+    "lat": 3.2073828,
+    "lng": 101.7269595,
+    "name": "Cube Coffee Setapak"
+  },
+  {
+    "lat": 3.1223064,
+    "lng": 101.7604709,
+    "name": "46, Jalan Bunga Tanjung 2"
+  },
+  {
+    "lat": 3.1128679,
+    "lng": 101.651074,
+    "name": "Hearing Clinic"
+  },
+  {
+    "lat": 3.2077294,
+    "lng": 101.7113485,
+    "name": "Somali Refugee Community Center"
+  },
+  {
+    "lat": 3.0168633,
+    "lng": 101.6150957,
+    "name": "HK Smart Security"
+  },
+  {
+    "lat": 3.1958499,
+    "lng": 101.766093,
+    "name": "Kopitiam Meletop (Nasi Kak Wok D Ukay Bestari)"
+  },
+  {
+    "lat": 3.0967449,
+    "lng": 101.7986189,
+    "name": "Pusat Khidmat Masyarakat Dun Dusun Tua"
+  },
+  {
+    "lat": 3.081614,
+    "lng": 101.5877165,
+    "name": "The Skinny Bakers"
+  },
+  {
+    "lat": 3.0565881,
+    "lng": 101.6299733,
+    "name": "Pusat Khidmat DAP Kinrara"
+  },
+  {
+    "lat": 3.0995732,
+    "lng": 101.6450189,
+    "name": "Pejabat ADUN Bukit Gasing"
+  },
+  {
+    "lat": 3.1098481,
+    "lng": 101.6284943,
+    "name": "Pusat Khidmat ADUN Kampung Tunku"
+  },
+  {
+    "lat": 3.1350798,
+    "lng": 101.6210484,
+    "name": "Pusat Khidmat ADUN Bandar Utama"
+  },
+  {
+    "lat": 3.0157124,
+    "lng": 101.6138247,
+    "name": "Restaurant Ho Ho Chiak 好好吃美食坊"
+  },
+  {
+    "lat": 2.99916,
+    "lng": 101.7686386,
+    "name": "Yayasan Food Bank Malaysia"
+  },
+  {
+    "lat": 2.9958922,
+    "lng": 101.789727,
+    "name": "Pusat khidmat Rakyat DUN Kajang"
+  },
+  {
+    "lat": 3.1211858,
+    "lng": 101.7704726,
+    "name": "NP Bistro 新地方"
+  },
+  {
+    "lat": 3.1361175,
+    "lng": 101.6232441,
+    "name": "Pho Real Vietnamese @Starling"
+  },
+  {
+    "lat": 3.123829,
+    "lng": 101.7184771,
+    "name": "【BeWithU Food Bank】"
+  },
+  {
+    "lat": 3.1634805,
+    "lng": 101.7262933,
+    "name": "【BeWithU Food Bank】"
+  },
+  {
+    "lat": 3.2139154,
+    "lng": 101.6407366,
+    "name": "【BeWithU Food Bank】"
+  },
+  {
+    "lat": 3.009096,
+    "lng": 101.6133109,
+    "name": "【BeWithU Food Bank】"
+  },
+  {
+    "lat": 3.0241469,
+    "lng": 101.7024563,
+    "name": "Restoran Big Eye Seafood 大眼仔海鲜饭店"
+  },
+  {
+    "lat": 3.1133395,
+    "lng": 101.7293842,
+    "name": "Takong Sdn. Bhd. (Takong Racing)"
+  },
+  {
+    "lat": 3.1072124,
+    "lng": 101.6247566,
+    "name": "Thai Mama 泰妈妈"
+  },
+  {
+    "lat": 3.0746177,
+    "lng": 101.632248,
+    "name": "Work Zone Auto Trading"
+  },
+  {
+    "lat": 3.0137743,
+    "lng": 101.4470656,
+    "name": "Abiz Mart Baru"
+  },
+  {
+    "lat": 3.0610255,
+    "lng": 101.710098,
+    "name": "DS HOME (Sg Besi)"
+  },
+  {
+    "lat": 2.9965368,
+    "lng": 101.7873239,
+    "name": "DS HOME (Kajang)"
+  },
+  {
+    "lat": 3.1491589,
+    "lng": 101.5446359,
+    "name": "DS HOME (Subang Perdana)"
+  },
+  {
+    "lat": 3.0103354,
+    "lng": 101.4342033,
+    "name": "DS HOME (Bukit Tinggi)"
+  },
+  {
+    "lat": 3.0555715,
+    "lng": 101.4632158,
+    "name": "Berkeley Durian Klang 夢中情人"
+  },
+  {
+    "lat": 3.1850785,
+    "lng": 101.6828033,
+    "name": "The Maple"
+  },
+  {
+    "lat": 2.9293015,
+    "lng": 101.8426264,
+    "name": "Tiara South"
+  },
+  {
+    "lat": 3.0125681,
+    "lng": 101.495686,
+    "name": "Double TT Curry House"
+  },
+  {
+    "lat": 3.1100852,
+    "lng": 101.4493743,
+    "name": "PROTON 3S CENTER SETIA ALAM - Wheelcorp Auto Sdn. Bhd."
+  },
+  {
+    "lat": 3.0223551,
+    "lng": 101.6178609,
+    "name": "Jolly Market Puchong"
+  },
+  {
+    "lat": 2.9439221,
+    "lng": 101.8426467,
+    "name": "26g, Jalan Semenyih Sentral 2"
+  },
+  {
+    "lat": 3.0316598,
+    "lng": 101.7606778,
+    "name": "Alimama Live Mall"
+  },
+  {
+    "lat": 3.3073666,
+    "lng": 101.5858414,
+    "name": "COOLFRESH MART SDN BHD (PASARAYA)"
+  },
+  {
+    "lat": 3.0146904,
+    "lng": 101.6167894,
+    "name": "Starman Coffee"
+  },
+  {
+    "lat": 3.1458527,
+    "lng": 101.438388,
+    "name": "Sate Famili"
+  },
+  {
+    "lat": 3.1334027,
+    "lng": 101.4410127,
+    "name": "Meru"
+  },
+  {
+    "lat": 3.0909204,
+    "lng": 101.6871529,
+    "name": "TM Point Kuchai Lama"
+  },
+  {
+    "lat": 3.0261111,
+    "lng": 101.6172222,
+    "name": "TMpoint Puchong Puteri"
+  },
+  {
+    "lat": 3.0821475,
+    "lng": 101.7036269,
+    "name": "高原海鮮飯店 （茶餐室）"
+  },
+  {
+    "lat": 3.0775134,
+    "lng": 101.6810203,
+    "name": "Yeon Sang Tyre & Battery Service Sdn Bhd"
+  },
+  {
+    "lat": 3.1277086,
+    "lng": 101.7307558,
+    "name": "OLD KL KOPITIAM"
+  },
+  {
+    "lat": 3.0836109,
+    "lng": 101.4100256,
+    "name": "英皇勤学教育中心 Super plus education sdn.bhd"
+  },
+  {
+    "lat": 3.0201977,
+    "lng": 101.4318126,
+    "name": "Hailam Kopitiam Klang"
+  },
+  {
+    "lat": 2.9941285,
+    "lng": 101.4468638,
+    "name": "Muze Cafe & Bar"
+  },
+  {
+    "lat": 2.9885486,
+    "lng": 101.532853,
+    "name": "SJK(C) Chung Hua Kota Kemuning"
+  },
+  {
+    "lat": 3.0064293,
+    "lng": 101.4359904,
+    "name": "Happy Delight Confinement Food Delivery KLANG"
+  },
+  {
+    "lat": 3.0122623,
+    "lng": 101.4307071,
+    "name": "KCA Lines Sdn.Bhd"
+  },
+  {
+    "lat": 2.9876547,
+    "lng": 101.4657967,
+    "name": "Poliklinik Barakah"
+  },
+  {
+    "lat": 3.0714657,
+    "lng": 101.6495209,
+    "name": "Surau Nurul Iman"
+  },
+  {
+    "lat": 3.0837425,
+    "lng": 101.6610834,
+    "name": "ANT Cafe & Bar"
+  },
+  {
+    "lat": 3.0717619,
+    "lng": 101.6723084,
+    "name": "KIN THAI RESTAURANT"
+  },
+  {
+    "lat": 3.0827042,
+    "lng": 101.6756061,
+    "name": "Wang Tong Shui Station"
+  },
+  {
+    "lat": 3.061747,
+    "lng": 101.6772428,
+    "name": "Sanzaru Izakaya & Bar | 三猿酒场"
+  },
+  {
+    "lat": 3.0103916,
+    "lng": 101.4597838,
+    "name": "VG Mall"
+  },
+  {
+    "lat": 2.9948654,
+    "lng": 101.4430905,
+    "name": "Hey! I Am Yogost The Landmark Klang"
+  },
+  {
+    "lat": 3.0160402,
+    "lng": 101.4278688,
+    "name": "JC Meal Box"
+  },
+  {
+    "lat": 3.011878,
+    "lng": 101.4210955,
+    "name": "JC Meal Box"
+  },
+  {
+    "lat": 2.9945268,
+    "lng": 101.4432525,
+    "name": "台風台式火鍋 KLANG TaiFeng Taiwanese Hot Pot"
+  },
+  {
+    "lat": 3.036777,
+    "lng": 101.766634,
+    "name": "台風台式火鍋 C180 TaiFeng Taiwanese Hot Pot"
+  },
+  {
+    "lat": 3.1939406,
+    "lng": 101.6296768,
+    "name": "台風台式火鍋 Kepong Taifeng Taiwanese Hot Pot"
+  },
+  {
+    "lat": 3.0848572,
+    "lng": 101.6711931,
+    "name": "台風火鍋 | 台風餐室 OLD KLANG ROAD TaiFeng Taiwanese Hot Pot"
+  },
+  {
+    "lat": 3.0583498,
+    "lng": 101.4640077,
+    "name": "Manna Meet Again 又见面"
+  },
+  {
+    "lat": 2.9743502,
+    "lng": 101.4585263,
+    "name": "Parklands Farm Trade Plt (Parklands Fresh Market)"
+  },
+  {
+    "lat": 2.9790438,
+    "lng": 101.5063009,
+    "name": "Gems Fashion 晶饰家"
+  },
+  {
+    "lat": 3.0991515,
+    "lng": 101.4606258,
+    "name": "Meng Hing Herbs & Food"
+  },
+  {
+    "lat": 2.9877423,
+    "lng": 101.4542475,
+    "name": "Megro Fresh Foods & Vegetables"
+  },
+  {
+    "lat": 2.9936273,
+    "lng": 101.4337945,
+    "name": "Konchi Fresh Market"
+  },
+  {
+    "lat": 3.0858463,
+    "lng": 101.4421038,
+    "name": "Saw kopitiam"
+  },
+  {
+    "lat": 3.06698,
+    "lng": 101.639959,
+    "name": "Surau Nur Hikmah"
+  },
+  {
+    "lat": 3.1351926,
+    "lng": 101.7703056,
+    "name": "Ampang Tzu Chi Community Centre"
+  },
+  {
+    "lat": 3.027184,
+    "lng": 101.724408,
+    "name": "Balakong Tzu Chi Community Centre"
+  },
+  {
+    "lat": 3.2395427,
+    "lng": 101.6973908,
+    "name": "Sri Gombak Tzu Chi Recycling Center"
+  },
+  {
+    "lat": 3.1034908,
+    "lng": 101.7505266,
+    "name": "Tzu Chi Cheras Utama Recycling Centre"
+  },
+  {
+    "lat": 3.053234,
+    "lng": 101.767752,
+    "name": "Taman Megah Tzu Chi Recycling"
+  },
+  {
+    "lat": 3.0825285,
+    "lng": 101.7124061,
+    "name": "Tzu Chi Recycling Centre Desa Petaling"
+  },
+  {
+    "lat": 3.2151836,
+    "lng": 101.6736269,
+    "name": "Jalan Ipoh Tzu Chi Recycling Center"
+  },
+  {
+    "lat": 3.2143911,
+    "lng": 101.6629043,
+    "name": "Recycling Center Tzu Chi Jinjang"
+  },
+  {
+    "lat": 2.989933,
+    "lng": 101.775906,
+    "name": "Kajang Tzu Chi Community Centre"
+  },
+  {
+    "lat": 3.2176497,
+    "lng": 101.6393205,
+    "name": "Tzu Chi Recycling Centre"
+  },
+  {
+    "lat": 3.220762657,
+    "lng": 101.6270476,
+    "name": "Taman Ehsan Tzu Chi Recycling Center"
+  },
+  {
+    "lat": 2.988861589,
+    "lng": 101.4441761,
+    "name": "Botanic Tzu Chi Community Centre"
+  },
+  {
+    "lat": 3.012353856,
+    "lng": 101.4303053,
+    "name": "Bayu Tinggi Tzu Chi Recycling Centre"
+  },
+  {
+    "lat": 2.9995718,
+    "lng": 101.471927,
+    "name": "Buddhist Tzu Chi Free Clinic Klang"
+  },
+  {
+    "lat": 3.0240492,
+    "lng": 101.4276432,
+    "name": "Taman Chi Liung Tzu Chi Recycling Centre"
+  },
+  {
+    "lat": 3.0195599,
+    "lng": 101.2541227,
+    "name": "Pulau Ketam Tzu-Chi Recycling & Education Center"
+  },
+  {
+    "lat": 3.0600453,
+    "lng": 101.4511316,
+    "name": "TZU CHI Recycling Centre KLANG"
+  },
+  {
+    "lat": 3.1960519,
+    "lng": 101.6295683,
+    "name": "Tzu Chi Maluri Recycling Centre"
+  },
+  {
+    "lat": 3.0835428,
+    "lng": 101.6833724,
+    "name": "Tzu-Chi Happy Garden Recycle Education Center"
+  },
+  {
+    "lat": 3.1133014,
+    "lng": 101.6052358,
+    "name": "Kelana Jaya Tzu Chi Community Centre"
+  },
+  {
+    "lat": 3.1982767,
+    "lng": 101.5895485,
+    "name": "Saujana Damansara Tzu Chi Recycle Centre"
+  },
+  {
+    "lat": 3.0628639,
+    "lng": 101.6368241,
+    "name": "Taman Kinrara 3 Tzu Chi Recycling Center"
+  },
+  {
+    "lat": 3.0260552,
+    "lng": 101.6229313,
+    "name": "Puteri 7 Tzu Chi Recycling Center"
+  },
+  {
+    "lat": 3.4097621,
+    "lng": 101.5629454,
+    "name": "Bukit Beruntung Tzu Chi Recycle Centre"
+  },
+  {
+    "lat": 3.312142,
+    "lng": 101.579311,
+    "name": "Bandar Rawang Tzu Chi Recycle Centre"
+  },
+  {
+    "lat": 3.241609,
+    "lng": 101.6538303,
+    "name": "Selayang Melati Tzu Chi Recycling Center"
+  },
+  {
+    "lat": 2.95161,
+    "lng": 101.841352,
+    "name": "Kampung Semenyih Tzu Chi Recycling Centre"
+  },
+  {
+    "lat": 3.1935423,
+    "lng": 101.6918914,
+    "name": "Sentul Tzu Chi Recycling Center"
+  },
+  {
+    "lat": 3.0274228,
+    "lng": 101.6986146,
+    "name": "Kampung Baru Serdang Tzu Chi Recycling Centre"
+  },
+  {
+    "lat": 3.0058765,
+    "lng": 101.6939802,
+    "name": "Pusat Kitar Semula Taman Universiti"
+  },
+  {
+    "lat": 3.1142847,
+    "lng": 101.5266187,
+    "name": "Bukit Jelutong Tzu Chi Recycling Center"
+  },
+  {
+    "lat": 3.0312204,
+    "lng": 101.530304,
+    "name": "Sri Muda Tzu Chi Recycling Center"
+  },
+  {
+    "lat": 3.0056688,
+    "lng": 101.5391064,
+    "name": "Tzu Chi Kota Kemuning Recycling Education Centre"
+  },
+  {
+    "lat": 3.1868667,
+    "lng": 101.6158215,
+    "name": "Bandar Sri Damansara Tzu Chi Community Centre"
+  },
+  {
+    "lat": 3.2018194,
+    "lng": 101.6190742,
+    "name": "Sri Damansara 5 Tzu Chi Recycling Center"
+  },
+  {
+    "lat": 3.0732434,
+    "lng": 101.692641,
+    "name": "Tzu Chi Taman Sri Petaling Recycle Center"
+  },
+  {
+    "lat": 3.046407,
+    "lng": 101.5894511,
+    "name": "Tzu Chi Recycling Center 慈濟資源回收站 Usj 慈济资源回收站"
+  },
+  {
+    "lat": 2.9903868,
+    "lng": 101.5601721,
+    "name": "Tzu Chi Recycling Putra Heights 慈濟環保點"
+  },
+  {
+    "lat": 3.2270753,
+    "lng": 101.5587398,
+    "name": "Bukit Rahman Putra Tzu Chi Recycling Centre"
+  },
+  {
+    "lat": 3.0389692,
+    "lng": 101.7921256,
+    "name": "Taiwan Buddhist Tzu-Chi Foundation Malaysia"
+  },
+  {
+    "lat": 3.1396232,
+    "lng": 101.7563513,
+    "name": "Cahaya Food Court 218"
+  },
+  {
+    "lat": 3.0356511,
+    "lng": 101.6252173,
+    "name": "47, Jalan Wawasan 4/1"
+  },
+  {
+    "lat": 2.9716364,
+    "lng": 101.8285656,
+    "name": "GUI SHENG BAK KUT TEH RESTAURANT"
+  },
+  {
+    "lat": 2.9873444,
+    "lng": 101.4672225,
+    "name": "Restaurant Ah Hook"
+  },
+  {
+    "lat": 3.1595871,
+    "lng": 101.6024938,
+    "name": "Aitch Coffee Roasters"
+  },
+  {
+    "lat": 3.3178347,
+    "lng": 101.536974,
+    "name": "Hongs Cuisine 峰味小食馆"
+  },
+  {
+    "lat": 2.9972906,
+    "lng": 101.571251,
+    "name": "Shell"
+  },
+  {
+    "lat": 3.0072083,
+    "lng": 101.5603041,
+    "name": "Masjid Al-Faizin"
+  },
+  {
+    "lat": 1.5013517,
+    "lng": 103.6161499,
+    "name": "Restoran Shi Hai"
+  },
+  {
+    "lat": 1.4867112,
+    "lng": 103.8841749,
+    "name": "De Cahaya Mataku"
+  },
+  {
+    "lat": 1.5539185,
+    "lng": 103.784656,
+    "name": "KYFruits Austin - Premium Fruits & Gifts Store"
+  },
+  {
+    "lat": 1.5733452,
+    "lng": 103.7584784,
+    "name": "Hotlink"
+  },
+  {
+    "lat": 4.6198442,
+    "lng": 101.1159594,
+    "name": "Shell, Jalan Sultan Azlan Shah"
+  },
+  {
+    "lat": 1.539653,
+    "lng": 103.6309699,
+    "name": "Jojoe Mixed Rice"
+  },
+  {
+    "lat": 1.5321357,
+    "lng": 103.7920223,
+    "name": "OM PEACE MOLEK"
+  },
+  {
+    "lat": 1.5547707,
+    "lng": 103.7896067,
+    "name": "Family Kitchen"
+  },
+  {
+    "lat": 1.5070382,
+    "lng": 103.6887881,
+    "name": "Happy Laundry 24Hr"
+  },
+  {
+    "lat": 1.5417377,
+    "lng": 103.6876602,
+    "name": "Vegibest Grocery 蔬菜生鲜"
+  },
+  {
+    "lat": 1.5112358,
+    "lng": 103.5189044,
+    "name": "Batter Sweet Bakery"
+  },
+  {
+    "lat": 1.5732756,
+    "lng": 103.7567596,
+    "name": "eco fruits 益鲜果"
+  },
+  {
+    "lat": 1.5171515,
+    "lng": 103.6323795,
+    "name": "JJL Steamboat Restaurant"
+  },
+  {
+    "lat": 1.4954252,
+    "lng": 103.8740294,
+    "name": "Waterland Coin Laundry"
+  },
+  {
+    "lat": 1.4868536,
+    "lng": 103.8829294,
+    "name": "Reunion Telecommunication"
+  },
+  {
+    "lat": 1.5469546,
+    "lng": 103.712647,
+    "name": "Cheese Creative Art Studio"
+  },
+  {
+    "lat": 1.5407456,
+    "lng": 103.8042666,
+    "name": "Nice Vision Optic Johor Jaya"
+  },
+  {
+    "lat": 1.4922166,
+    "lng": 103.8738884,
+    "name": "Dr Cermin TAMAN RINTING - Windscreen Replacement | Windscreen Repair"
+  },
+  {
+    "lat": 1.5642817,
+    "lng": 103.5864486,
+    "name": "XP Auto Garage"
+  },
+  {
+    "lat": 1.4725982,
+    "lng": 103.6699016,
+    "name": "Posstore Perling - Jalan Rawa"
+  },
+  {
+    "lat": 1.4888169,
+    "lng": 103.8497626,
+    "name": "22, Jalan Jelatang 14/1"
+  },
+  {
+    "lat": 2.083681,
+    "lng": 103.491197,
+    "name": "Pos Mini Kahang Timur"
+  },
+  {
+    "lat": 1.4966892,
+    "lng": 103.7764376,
+    "name": "Summer Dental JB"
+  },
+  {
+    "lat": 1.558893,
+    "lng": 103.7569765,
+    "name": "Top Station Teleshop"
+  },
+  {
+    "lat": 1.5811699,
+    "lng": 103.7600021,
+    "name": "One Belief Tyre & Wheels"
+  },
+  {
+    "lat": 1.4586355,
+    "lng": 103.5838581,
+    "name": "Parcelhub Gelang Patah [International Express/Domestic Courier Services国际快递/邮政服务 (FMX, Citylink, Lineclear, SF express顺丰, EMS, Aramex, Janio, Ninjavan, Postco, Flickpost, China lane中国专线, Taiwan lane台湾专线]"
+  },
+  {
+    "lat": 1.5351573,
+    "lng": 103.7938833,
+    "name": "Snailer Express Johor Jaya (ABX, Skynet, Fedex, PosLaju, City-Link, CJ Century, Ninjavan Couriers)"
+  },
+  {
+    "lat": 1.494719,
+    "lng": 103.6800105,
+    "name": "Enliven Hair Care Taman Perling"
+  },
+  {
+    "lat": 1.6318918,
+    "lng": 103.6815277,
+    "name": "好66茶餐廳 Restoran hao 66"
+  },
+  {
+    "lat": 1.6109722,
+    "lng": 103.6601295,
+    "name": "Performancelub Enterprise"
+  },
+  {
+    "lat": 1.5405898,
+    "lng": 103.6311439,
+    "name": "Konfar Trading"
+  },
+  {
+    "lat": 1.4970478,
+    "lng": 103.6685951,
+    "name": "Car Autoworks Service & Repair"
+  },
+  {
+    "lat": 1.5617964,
+    "lng": 103.8081173,
+    "name": "18, Jalan Tanjong 2"
+  },
+  {
+    "lat": 1.5303568,
+    "lng": 103.6191931,
+    "name": "Mobile Fun Trading"
+  },
+  {
+    "lat": 2.5041008,
+    "lng": 102.8245759,
+    "name": "293, Jalan Salim"
+  },
+  {
+    "lat": 1.4780628,
+    "lng": 103.8964055,
+    "name": "Pajak Gadai Tai Loi Sdn. Bhd."
+  },
+  {
+    "lat": 2.8854178,
+    "lng": 101.7907645,
+    "name": "13, Jalan Seri Putra 1/4"
+  },
+  {
+    "lat": 3.768873,
+    "lng": 100.98184,
+    "name": "Pusat Khidmat Dun Sabak"
+  },
+  {
+    "lat": 3.5067419,
+    "lng": 101.1057825,
+    "name": "Pusat Khidmat Adun Sekinchan"
+  },
+  {
+    "lat": 3.3205095,
+    "lng": 101.2685465,
+    "name": "Pusat Khidmat Rakyat Dun Bukit Melawati"
+  },
+  {
+    "lat": 3.3305813,
+    "lng": 101.2546997,
+    "name": "Pusat Khidmat Masyrakat Dun Bukit Melawati"
+  },
+  {
+    "lat": 1.8844876,
+    "lng": 102.7806737,
+    "name": "PETRONAS - Semerah"
+  },
+  {
+    "lat": 1.8630806,
+    "lng": 103.0011008,
+    "name": "PETRONAS - Simpang Kanan 2, Batu Pahat"
+  },
+  {
+    "lat": 1.8610245,
+    "lng": 103.1052924,
+    "name": "PETRONAS - Parit Raja"
+  },
+  {
+    "lat": 1.8146662,
+    "lng": 102.9559728,
+    "name": "PETRONAS - Taman Banang Jaya"
+  },
+  {
+    "lat": 1.9789342,
+    "lng": 102.8807596,
+    "name": "Petronas Parit Sulong"
+  },
+  {
+    "lat": 1.9120282,
+    "lng": 102.9518791,
+    "name": "Petronas Tongkang Pechah (RR DAGANGAN ENTERPRISE)"
+  },
+  {
+    "lat": 1.8440582,
+    "lng": 102.9419634,
+    "name": "PETRONAS - Jalan Tanjung Laboh -"
+  },
+  {
+    "lat": 1.8793777,
+    "lng": 102.9456489,
+    "name": "Petronas Jalan Bukit Pasir (Mesra Biq Sdn Bhd)"
+  },
+  {
+    "lat": 2.0138592,
+    "lng": 103.3208377,
+    "name": "PETRONAS - Jalan Mengkibol, Kluang"
+  },
+  {
+    "lat": 1.9995446,
+    "lng": 103.2694761,
+    "name": "PETRONAS JALAN BATU PAHAT"
+  },
+  {
+    "lat": 2.0141954,
+    "lng": 103.2867806,
+    "name": "PETRONAS - Taman Desa Kluang"
+  },
+  {
+    "lat": 1.9332356,
+    "lng": 103.1869358,
+    "name": "PETRONAS - Bandar Baru Ayer Hitam"
+  },
+  {
+    "lat": 1.8265746,
+    "lng": 103.3115157,
+    "name": "PETRONAS - Simpang Renggam"
+  },
+  {
+    "lat": 2.0222492,
+    "lng": 103.0565811,
+    "name": "Petronas"
+  },
+  {
+    "lat": 1.9656262,
+    "lng": 103.0306136,
+    "name": "Petronas Parit Yaani"
+  },
+  {
+    "lat": 1.9255919,
+    "lng": 103.1833376,
+    "name": "PETRONAS - Jalan Kluang - Ayer Hitam, Seri Gading - New"
+  },
+  {
+    "lat": 1.8775141,
+    "lng": 103.6109336,
+    "name": "PETRONAS - Bandar Tenggara"
+  },
+  {
+    "lat": 1.7402606,
+    "lng": 104.0581422,
+    "name": "PETRONAS Bukit Waha"
+  },
+  {
+    "lat": 1.608819,
+    "lng": 104.1533787,
+    "name": "PETRONAS Sungai Mas"
+  },
+  {
+    "lat": 1.7361385,
+    "lng": 103.9078286,
+    "name": "PETRONAS Jalan Tun Sri Lanang"
+  },
+  {
+    "lat": 1.6073795,
+    "lng": 103.8217701,
+    "name": "PETRONAS Jalan Ulu Tiram"
+  },
+  {
+    "lat": 1.7229931,
+    "lng": 103.898289,
+    "name": "Petronas Kota Tinggi"
+  },
+  {
+    "lat": 1.7110689,
+    "lng": 103.9564208,
+    "name": "Petronas Kota Tinggi Bypass"
+  },
+  {
+    "lat": 1.572793,
+    "lng": 104.2049498,
+    "name": "Petronas Desaru"
+  },
+  {
+    "lat": 1.6313023,
+    "lng": 103.6344033,
+    "name": "PETRONAS - Saleng"
+  },
+  {
+    "lat": 1.6339096,
+    "lng": 103.661911,
+    "name": "PETRONAS- Senai Airport"
+  },
+  {
+    "lat": 1.637955,
+    "lng": 103.6178825,
+    "name": "PETRONAS - Bandar Indahpura"
+  },
+  {
+    "lat": 1.6504073,
+    "lng": 103.6276172,
+    "name": "Petronas@Bandar Putra"
+  },
+  {
+    "lat": 1.6586343,
+    "lng": 103.5856167,
+    "name": "PETRONAS Taman Kulai Permai"
+  },
+  {
+    "lat": 1.730929,
+    "lng": 103.4413308,
+    "name": "PETRONAS - Bukit Batu Marzuq Kiosk"
+  },
+  {
+    "lat": 1.6672527,
+    "lng": 103.5893978,
+    "name": "Petronas Pekan Kulai"
+  },
+  {
+    "lat": 1.5512266,
+    "lng": 103.6493201,
+    "name": "Petronas Jln Pontian-Skudai"
+  },
+  {
+    "lat": 1.5923673,
+    "lng": 103.6476762,
+    "name": "Petronas - Taman Jaya Sepakat"
+  },
+  {
+    "lat": 1.58846,
+    "lng": 103.6476659,
+    "name": "Petronas Taman Aman ( Jabal Barqa )"
+  },
+  {
+    "lat": 2.4348233,
+    "lng": 103.8344921,
+    "name": "PETRONAS - Mersing"
+  },
+  {
+    "lat": 2.4173323,
+    "lng": 103.8396161,
+    "name": "PETRONAS Taman Wawasan"
+  },
+  {
+    "lat": 1.6497222,
+    "lng": 103.2559684,
+    "name": "PETRONAS - Benut"
+  },
+  {
+    "lat": 1.5088813,
+    "lng": 103.5076244,
+    "name": "PETRONAS Pekan Nenas"
+  },
+  {
+    "lat": 1.4825329,
+    "lng": 103.4037431,
+    "name": "PETRONAS Sungai Gurap"
+  },
+  {
+    "lat": 1.4829003,
+    "lng": 103.4149535,
+    "name": "Petronas"
+  },
+  {
+    "lat": 1.3403899,
+    "lng": 103.4603512,
+    "name": "Petronas Permas Kecil"
+  },
+  {
+    "lat": 1.4997445,
+    "lng": 103.3840983,
+    "name": "PETRONAS - Jalan Alsagoff, Pontian"
+  },
+  {
+    "lat": 1.5345795,
+    "lng": 103.7944387,
+    "name": "PETRONAS - NGV Johor Jaya"
+  },
+  {
+    "lat": 1.5233414,
+    "lng": 103.7861339,
+    "name": "PETRONAS - TAMAN MOLEK (WANFIZLINA)"
+  },
+  {
+    "lat": 1.522882,
+    "lng": 103.7308529,
+    "name": "PETRONAS Pasir Gudang Highway 3"
+  },
+  {
+    "lat": 1.5008884,
+    "lng": 103.7181248,
+    "name": "PETRONAS - Bandar Baru Uda Maybank N Cimb"
+  },
+  {
+    "lat": 1.48862,
+    "lng": 103.7138152,
+    "name": "Petronas"
+  },
+  {
+    "lat": 1.4886576,
+    "lng": 103.7288488,
+    "name": "PETRONAS - Jalan Tun Abdul Razak"
+  },
+  {
+    "lat": 1.470728,
+    "lng": 103.7662974,
+    "name": "PETRONAS Jalan Bukit Chagar"
+  },
+  {
+    "lat": 1.5570412,
+    "lng": 103.8016928,
+    "name": "PETRONAS - Taman Desa Jaya"
+  },
+  {
+    "lat": 1.5824689,
+    "lng": 103.8009599,
+    "name": "PETRONAS - Jalan Keris 37"
+  },
+  {
+    "lat": 1.5723319,
+    "lng": 103.813149,
+    "name": "PETRONAS Tmn Puteri Wangsa"
+  },
+  {
+    "lat": 1.5026334,
+    "lng": 103.8540588,
+    "name": "Petronas Lebuhraya Pasir Gudang 1 aka Petronas Bandar Seri Alam 1"
+  },
+  {
+    "lat": 1.4758752,
+    "lng": 103.7477968,
+    "name": "Petronas"
+  },
+  {
+    "lat": 2.0788824,
+    "lng": 102.5804833,
+    "name": "PETRONAS - Jalan Salleh"
+  },
+  {
+    "lat": 2.0969823,
+    "lng": 102.6347414,
+    "name": "Petronas Bukit Pasir"
+  },
+  {
+    "lat": 1.5423357,
+    "lng": 103.6874196,
+    "name": "PETRONAS"
+  },
+  {
+    "lat": 1.4977265,
+    "lng": 103.6557313,
+    "name": "PETRONAS - Taman Nusa Bestari"
+  },
+  {
+    "lat": 1.4736138,
+    "lng": 103.6686773,
+    "name": "Petronas - Taman Perling"
+  },
+  {
+    "lat": 1.4845161,
+    "lng": 103.6483461,
+    "name": "Petronas"
+  },
+  {
+    "lat": 1.3866401,
+    "lng": 103.5932626,
+    "name": "Petronas Second Link (Southbound)"
+  },
+  {
+    "lat": 1.5381308,
+    "lng": 103.6298258,
+    "name": "PETRONAS - University Park 2"
+  },
+  {
+    "lat": 1.5685821,
+    "lng": 103.8126659,
+    "name": "Petronas-ML310"
+  },
+  {
+    "lat": 1.5630491,
+    "lng": 103.806457,
+    "name": "PETRONAS Lebuh Desa Cemerlang"
+  },
+  {
+    "lat": 1.5026805,
+    "lng": 103.8540404,
+    "name": "PETRONAS Bandar Seri Alam"
+  },
+  {
+    "lat": 2.4853011,
+    "lng": 102.8256878,
+    "name": "三爷殿 Pertubuhan penganut dewa San Yeh Tian"
+  },
+  {
+    "lat": 2.5078525,
+    "lng": 102.8160644,
+    "name": "Roland Kopitiam"
+  },
+  {
+    "lat": 2.50175,
+    "lng": 102.8243366,
+    "name": "笑笑炒粿条档口"
+  },
+  {
+    "lat": 2.5054495,
+    "lng": 102.8194811,
+    "name": "小瓜串锅 Boy Steamboat"
+  },
+  {
+    "lat": 2.5029715,
+    "lng": 102.8223957,
+    "name": "昔加末慈恩欢喜食堂"
+  },
+  {
+    "lat": 2.5471107,
+    "lng": 102.7921371,
+    "name": "GG Foodcourt Segamat"
+  },
+  {
+    "lat": 2.5480835,
+    "lng": 102.7912189,
+    "name": "Restoran Low Brothers"
+  },
+  {
+    "lat": 2.496232,
+    "lng": 102.8490476,
+    "name": "30, Jalan Serikaya 2"
+  },
+  {
+    "lat": 2.50905,
+    "lng": 102.822848,
+    "name": "new NEXT Station"
+  },
+  {
+    "lat": 1.4878471,
+    "lng": 103.7660273,
+    "name": "Century Street Food Court 美食阁"
+  },
+  {
+    "lat": 2.5010304,
+    "lng": 102.8269958,
+    "name": "Greenland Tea House"
+  },
+  {
+    "lat": 1.5298872,
+    "lng": 103.8172958,
+    "name": "Ninso Plentong"
+  },
+  {
+    "lat": 1.5047593,
+    "lng": 103.7140711,
+    "name": "Ninso Tampoi"
+  },
+  {
+    "lat": 1.4837143,
+    "lng": 103.9357223,
+    "name": "Ninso Kota Masai"
+  },
+  {
+    "lat": 1.5458759,
+    "lng": 103.6219485,
+    "name": "Ninso Taman U"
+  },
+  {
+    "lat": 1.8662225,
+    "lng": 103.1125849,
+    "name": "Ninso Parit Raja"
+  },
+  {
+    "lat": 1.5128963,
+    "lng": 103.7041267,
+    "name": "Ninso Kempas"
+  },
+  {
+    "lat": 1.4969235,
+    "lng": 103.6409225,
+    "name": "Ninso Industri Jaya"
+  },
+  {
+    "lat": 2.0230722,
+    "lng": 103.3121071,
+    "name": "Ninso Taman Tasik Kluang"
+  },
+  {
+    "lat": 1.4784002,
+    "lng": 103.3999694,
+    "name": "Ninso Pontian Johore."
+  },
+  {
+    "lat": 2.0519156,
+    "lng": 103.3478698,
+    "name": "Ninso Taman Fajar Jaya Kluang"
+  },
+  {
+    "lat": 1.6479573,
+    "lng": 103.626685,
+    "name": "Ninso IOI Mall"
+  },
+  {
+    "lat": 1.8231247,
+    "lng": 103.3146793,
+    "name": "Ninso simpang renggam"
+  },
+  {
+    "lat": 2.0099186,
+    "lng": 103.0712222,
+    "name": "Ninso Yong Peng"
+  },
+  {
+    "lat": 1.5536628,
+    "lng": 103.8171978,
+    "name": "Ninso"
+  },
+  {
+    "lat": 1.5408757,
+    "lng": 103.6290026,
+    "name": "BIG Pharmacy Taman Universiti (Formerly known as RedCap Pharmacy)"
+  },
+  {
+    "lat": 1.8668167,
+    "lng": 102.939725,
+    "name": "BIG Pharmacy Bukit Pasir"
+  },
+  {
+    "lat": 1.7339433,
+    "lng": 103.9061782,
+    "name": "BIG Pharmacy Kipmall Kota Tinggi (Formerly known as My Pharmacy)"
+  },
+  {
+    "lat": 1.49917,
+    "lng": 103.7098536,
+    "name": "BIG Pharmacy Bandar Baru Uda (Formerly known as RedCap Pharmacy)"
+  },
+  {
+    "lat": 1.561967,
+    "lng": 103.598119,
+    "name": "BIG Pharmacy Pulai Perdana 2 (Formerly Known as Redcap Pharmacy Pulai Perdana 2)"
+  },
+  {
+    "lat": 1.4932799,
+    "lng": 103.8752911,
+    "name": "BIG Pharmacy Masai"
+  },
+  {
+    "lat": 1.5419577,
+    "lng": 103.8022595,
+    "name": "BIG Pharmacy Johor Jaya"
+  },
+  {
+    "lat": 2.0054313,
+    "lng": 103.3059222,
+    "name": "88旺茶餐室"
+  },
+  {
+    "lat": 5.3357988,
+    "lng": 100.5087152,
+    "name": "Pasar Machang Bubok"
+  },
+  {
+    "lat": 1.5575534,
+    "lng": 103.7800362,
+    "name": "Bar Wang Rice 卤肉 霸王饭"
+  },
+  {
+    "lat": 1.4819694,
+    "lng": 103.7734613,
+    "name": "Bar Wang Rice 霸王饭"
+  },
+  {
+    "lat": 1.4947425,
+    "lng": 103.6560669,
+    "name": "Bar Wang Rice 卤肉霸王饭"
+  },
+  {
+    "lat": 1.4808289,
+    "lng": 103.7648969,
+    "name": "Bar Wang Rice 卤肉 霸王饭"
+  },
+  {
+    "lat": 1.5302452,
+    "lng": 103.7930318,
+    "name": "Bar Wang Rice 卤肉 霸王饭"
+  },
+  {
+    "lat": 1.5407571,
+    "lng": 103.8039703,
+    "name": "Bar Wang Rice 卤肉霸王饭"
+  },
+  {
+    "lat": 1.641713,
+    "lng": 103.6168721,
+    "name": "Restoran Bar Wang Rice 11"
+  },
+  {
+    "lat": 1.5413324,
+    "lng": 103.6884923,
+    "name": "Bar Wang Rice 卤肉 霸王饭"
+  },
+  {
+    "lat": 1.4503169,
+    "lng": 103.5952315,
+    "name": "Bar Wang Rice 卤肉霸王饭"
+  },
+  {
+    "lat": 1.5011022,
+    "lng": 103.8158581,
+    "name": "Bar Wang Rice"
+  },
+  {
+    "lat": 1.4859639,
+    "lng": 103.7624242,
+    "name": "Bar Wang Rice 卤肉 霸王饭"
+  },
+  {
+    "lat": 1.836585,
+    "lng": 102.9334315,
+    "name": "Bpfresh Seafood"
+  },
+  {
+    "lat": 2.5036602,
+    "lng": 102.8283416,
+    "name": "Apiak炒粿条"
+  },
+  {
+    "lat": 1.4785128,
+    "lng": 103.3999309,
+    "name": "食满堂 SMT Frozen Food & Snack 全马零售与批发﻿"
+  },
+  {
+    "lat": 1.5394533,
+    "lng": 103.8019164,
+    "name": "Restaurant Wan Long 九萬龍海鮮園"
+  },
+  {
+    "lat": 1.5618654,
+    "lng": 103.7763961,
+    "name": "发哥澛串-冷锅串串香"
+  },
+  {
+    "lat": 1.515071,
+    "lng": 103.6548887,
+    "name": "Vicoholic Bistro & Cafe"
+  },
+  {
+    "lat": 1.5620038,
+    "lng": 103.7782538,
+    "name": "Master Paw Feng Shui MA"
+  },
+  {
+    "lat": 1.4989439,
+    "lng": 103.655959,
+    "name": "Master Paw"
+  },
+  {
+    "lat": 2.5170761,
+    "lng": 102.809785,
+    "name": "嘉乐茶餐室 Restoran Kah Lock"
+  },
+  {
+    "lat": 2.5094375,
+    "lng": 102.8230187,
+    "name": "Home Porridge Restaurant 粥之乡"
+  },
+  {
+    "lat": 2.5343555,
+    "lng": 102.8086775,
+    "name": "Simpang Pasar Pekan Jabi"
+  },
+  {
+    "lat": 2.0375501,
+    "lng": 103.3191989,
+    "name": "Taro Yogurt Kluang熊太郎酸奶"
+  },
+  {
+    "lat": 2.4937063,
+    "lng": 102.8519198,
+    "name": "SH Soon Huat Auto SDN BHD"
+  },
+  {
+    "lat": 1.5252742,
+    "lng": 103.6669659,
+    "name": "vburg Cafe"
+  },
+  {
+    "lat": 1.4826474,
+    "lng": 103.6855192,
+    "name": "Jalan Persisiran Perling 1"
+  },
+  {
+    "lat": 2.0650476,
+    "lng": 102.5937193,
+    "name": "璟薇阁素食馆"
+  },
+  {
+    "lat": 2.553485,
+    "lng": 102.7634824,
+    "name": "金秀云吞面"
+  },
+  {
+    "lat": 2.5643274,
+    "lng": 102.724136,
+    "name": "Restoran CSY 家良小厨馆"
+  },
+  {
+    "lat": 2.4847997,
+    "lng": 102.8442521,
+    "name": "Ibu Pejabat St John Ambulans Malaysia Kawasan Segamat"
+  },
+  {
+    "lat": 2.5055092,
+    "lng": 102.8263054,
+    "name": "Kedai Kopi Cheong Yik Kee"
+  },
+  {
+    "lat": 2.5502271,
+    "lng": 102.7653083,
+    "name": "靈山宮"
+  },
+  {
+    "lat": 2.2728925,
+    "lng": 102.545429,
+    "name": "Xiao Niu Lok Lok"
+  },
+  {
+    "lat": 1.4870497,
+    "lng": 103.769654,
+    "name": "新山中华公会 Persekutuan Tiong-Hua Johor Baru (Wisma Tiong Hua)"
+  },
+  {
+    "lat": 1.4560873,
+    "lng": 103.7631796,
+    "name": "Johor Bahru Chinese Heritage Museum"
+  },
+  {
+    "lat": 1.4605951,
+    "lng": 103.7631134,
+    "name": "Johor Ancient Temple"
+  },
+  {
+    "lat": 1.5423804,
+    "lng": 103.8009979,
+    "name": "Food Bank Persekutuan Tiong Hua"
+  },
+  {
+    "lat": 1.520827,
+    "lng": 103.660727,
+    "name": "Persatuan Teater Kesuma Johor Bahru"
+  },
+  {
+    "lat": 2.6849838,
+    "lng": 101.907809,
+    "name": "Bbs Blossom Battery Supply"
+  },
+  {
+    "lat": 2.7018454,
+    "lng": 101.9803929,
+    "name": "BAKING LOUNGE INGREDIENTS SUPPLY @ SENAWANG"
+  },
+  {
+    "lat": 2.6716856,
+    "lng": 101.9818156,
+    "name": "Kafe Yumcha Station"
+  },
+  {
+    "lat": 2.6680518,
+    "lng": 101.9195248,
+    "name": "Balai Raya Kg Mambau"
+  },
+  {
+    "lat": 2.722857,
+    "lng": 101.996967,
+    "name": "琼发兴"
+  },
+  {
+    "lat": 2.7432752,
+    "lng": 101.9653823,
+    "name": "916 coffee shop"
+  },
+  {
+    "lat": 2.7392997,
+    "lng": 101.925866,
+    "name": "MC BATTERY TRADING"
+  },
+  {
+    "lat": 2.6762649,
+    "lng": 101.9718996,
+    "name": "Syarikat Yin Sang 仁生药行"
+  },
+  {
+    "lat": 2.7274679,
+    "lng": 101.9263914,
+    "name": "Pak Chok Dim Sum"
+  },
+  {
+    "lat": 2.5219434,
+    "lng": 101.7994105,
+    "name": "D'Wharf Hotel & Serviced Residence"
+  },
+  {
+    "lat": 2.811278,
+    "lng": 101.778682,
+    "name": "Petronas Bandar Baru Nilai"
+  },
+  {
+    "lat": 2.466765,
+    "lng": 102.1202579,
+    "name": "PETRONAS Pedas Linggi Layby Northbound"
+  },
+  {
+    "lat": 2.5899999,
+    "lng": 102.0971523,
+    "name": "Petronas Rembau"
+  },
+  {
+    "lat": 2.6923814,
+    "lng": 101.9031463,
+    "name": "Regina Fresh Fruits"
+  },
+  {
+    "lat": 2.5619264,
+    "lng": 101.8104969,
+    "name": "Warung Tan Tok Cik"
+  },
+  {
+    "lat": 2.586441,
+    "lng": 102.5738203,
+    "name": "Ninso Gemas"
+  },
+  {
+    "lat": 2.6925902,
+    "lng": 101.9801177,
+    "name": "Ninso Senawang"
+  },
+  {
+    "lat": 2.4792387,
+    "lng": 102.24038,
+    "name": "Pusat Khidmat Dun Repah Tampin"
+  },
+  {
+    "lat": 2.7980708,
+    "lng": 101.7583728,
+    "name": "Persatuan Kebajikan Anak-Anak Negeri Sembilan"
+  },
+  {
+    "lat": 2.810304,
+    "lng": 102.4017774,
+    "name": "Klinik Thong"
+  },
+  {
+    "lat": 2.7631413,
+    "lng": 101.7798751,
+    "name": "N.Lemak & Rojak Jijan Power"
+  },
+  {
+    "lat": 2.6941757,
+    "lng": 101.9039876,
+    "name": "S2 Centrio"
+  },
+  {
+    "lat": 2.685166,
+    "lng": 101.9048411,
+    "name": "Garden Homes Seremban 2"
+  },
+  {
+    "lat": 2.678426,
+    "lng": 101.9023729,
+    "name": "Garden Avenue Seremban 2"
+  },
+  {
+    "lat": 2.6890518,
+    "lng": 101.9424362,
+    "name": "QQ Tasty Seafood Restaurant"
+  },
+  {
+    "lat": 2.67866,
+    "lng": 101.942563,
+    "name": "Taman Rasah Jaya"
+  },
+  {
+    "lat": 2.196878,
+    "lng": 102.249595,
+    "name": "Yew Dee Hong Sdn Bhd"
+  },
+  {
+    "lat": 2.1933548,
+    "lng": 102.2886238,
+    "name": "BUTIK & KAFE CHERRY (RYEEMZ ENTERPRISE)"
+  },
+  {
+    "lat": 2.2287124,
+    "lng": 102.2240083,
+    "name": "一元早餐茶店 One Dollar Shop"
+  },
+  {
+    "lat": 2.214982,
+    "lng": 102.2704482,
+    "name": "Ninso Melaka"
+  },
+  {
+    "lat": 2.2344425,
+    "lng": 102.2494274,
+    "name": "Ninso KIP Mall Melaka"
+  },
+  {
+    "lat": 2.2011062,
+    "lng": 102.2516613,
+    "name": "Lian Pang Kopitiam"
+  },
+  {
+    "lat": 2.2455676,
+    "lng": 102.2717097,
+    "name": "Chelvei's Curry House"
+  },
+  {
+    "lat": 2.2214017,
+    "lng": 102.2860953,
+    "name": "Grand City Sales Gallery"
+  },
+  {
+    "lat": 2.20787,
+    "lng": 102.2438697,
+    "name": "三角路肉干烧烤专卖店(GTL ENTERPRISE)"
+  },
+  {
+    "lat": 2.1936986,
+    "lng": 102.2445939,
+    "name": "Kopitiam Tanka"
+  },
+  {
+    "lat": 2.8309826,
+    "lng": 101.8960722,
+    "name": "Muhibbah Food Bank Malaysia Society"
+  },
+  {
+    "lat": 2.8179953,
+    "lng": 101.7929207,
+    "name": "Restoran Aneka Rasa Furqan Tomyam"
+  },
+  {
+    "lat": 2.807099,
+    "lng": 101.792855,
+    "name": "Durian Win Nilai"
+  },
+  {
+    "lat": 2.518512,
+    "lng": 102.173296,
+    "name": "MPKK Kampung Gadong"
+  },
+  {
+    "lat": 2.8214073,
+    "lng": 101.7923583,
+    "name": "Happy Camel Hijazi Seafood Restaurant"
+  },
+  {
+    "lat": 3.8082297,
+    "lng": 103.3215854,
+    "name": "Pusat Komputer BSSE"
+  },
+  {
+    "lat": 3.8431307,
+    "lng": 103.3370051,
+    "name": "Posstore Jalan Air Putih Kuantan Pahang"
+  },
+  {
+    "lat": 3.8313611,
+    "lng": 103.3447255,
+    "name": "Posstore Jalan Beserah,Kuantan P1570"
+  },
+  {
+    "lat": 3.7633859,
+    "lng": 103.2201828,
+    "name": "Kuantan"
+  },
+  {
+    "lat": 3.9909698,
+    "lng": 103.3761057,
+    "name": "Balok"
+  },
+  {
+    "lat": 3.8285965,
+    "lng": 103.3405933,
+    "name": "BIG Pharmacy Jalan Beserah"
+  },
+  {
+    "lat": 3.8093487,
+    "lng": 103.3235343,
+    "name": "Zhu Ling Vege Houses"
+  },
+  {
+    "lat": 3.524166,
+    "lng": 101.9064175,
+    "name": "Pejabat Ahli Parlimen Bentong"
+  },
+  {
+    "lat": 4.4916647,
+    "lng": 101.3884459,
+    "name": "Spring Up Cafe"
+  },
+  {
+    "lat": 3.793532,
+    "lng": 101.8574651,
+    "name": "Ahli Parlimen Raub"
+  },
+  {
+    "lat": 3.7633857,
+    "lng": 101.8437319,
+    "name": "Pertubuhan Madinah Prihatin"
+  },
+  {
+    "lat": 3.386417,
+    "lng": 101.7742363,
+    "name": "Yomie’s Rice X Yogurt Genting Permai"
+  },
+  {
+    "lat": 3.0540237,
+    "lng": 103.0827872,
+    "name": "Muadzam Shah Police Station"
+  },
+  {
+    "lat": 3.7358223,
+    "lng": 103.314461,
+    "name": "Masjid Tareq bin Ziyad (Kempadang Perdana)"
+  },
+  {
+    "lat": 3.936773,
+    "lng": 103.373779,
+    "name": "Surau Al-hidayah"
+  },
+  {
+    "lat": 2.7946866,
+    "lng": 103.4870609,
+    "name": "Rompin District Police Headquarters"
+  },
+  {
+    "lat": 3.8073825,
+    "lng": 103.303689,
+    "name": "Pertubuhan Kebajikan Ikhlas Kuantan Pahang"
+  },
+  {
+    "lat": 3.264675,
+    "lng": 102.4458548,
+    "name": "Penggerak Komuniti Negara - P090 Bera"
+  },
+  {
+    "lat": 5.3980334,
+    "lng": 100.4109656,
+    "name": "Petronas BKE (Butterworth Bound)"
+  },
+  {
+    "lat": 5.4000425,
+    "lng": 100.3994511,
+    "name": "PETRONAS Bandar Seberang Jaya"
+  },
+  {
+    "lat": 5.2844124,
+    "lng": 100.4930447,
+    "name": "PETRONAS - Bandar Tasik Mutiara"
+  },
+  {
+    "lat": 5.4167391,
+    "lng": 100.328564,
+    "name": "Meowky House"
+  },
+  {
+    "lat": 5.3448209,
+    "lng": 100.4358818,
+    "name": "MamaVege"
+  },
+  {
+    "lat": 5.3689351,
+    "lng": 100.3098249,
+    "name": "Ezy’s Coconut Beverages"
+  },
+  {
+    "lat": 5.3370765,
+    "lng": 100.2927964,
+    "name": "Dapoq mimi"
+  },
+  {
+    "lat": 5.4141307,
+    "lng": 100.3287506,
+    "name": "Pulau Penang"
+  },
+  {
+    "lat": 5.365458,
+    "lng": 100.4590091,
+    "name": "Bukit Mertajam"
+  },
+  {
+    "lat": 5.2974658,
+    "lng": 100.2244262,
+    "name": "Pusat Pendidikan AL-ITQAN Pulau Pinang"
+  },
+  {
+    "lat": 5.420875,
+    "lng": 100.325446,
+    "name": "Shunka Burma Road"
+  },
+  {
+    "lat": 5.3896983,
+    "lng": 100.3061146,
+    "name": "Batu Lancang Market Food Court"
+  },
+  {
+    "lat": 5.462675,
+    "lng": 100.301896,
+    "name": "Arati Vilas 印度餐厅"
+  },
+  {
+    "lat": 5.3700335,
+    "lng": 100.4139476,
+    "name": "Seberang Perai"
+  },
+  {
+    "lat": 5.4384826,
+    "lng": 100.3906641,
+    "name": "Butterworth Lay Buddhist Society"
+  },
+  {
+    "lat": 5.3937587,
+    "lng": 100.3017097,
+    "name": "Cathedral of the Holy Spirit"
+  },
+  {
+    "lat": 5.414403,
+    "lng": 100.3271281,
+    "name": "City Parish"
+  },
+  {
+    "lat": 5.4102487,
+    "lng": 100.3305358,
+    "name": "Cili Panda 便当食堂"
+  },
+  {
+    "lat": 5.3206776,
+    "lng": 100.2823854,
+    "name": "Pantai Hospital Penang"
+  },
+  {
+    "lat": 5.4637415,
+    "lng": 100.2847051,
+    "name": "Tanjung Bungah Market, Penang"
+  },
+  {
+    "lat": 5.4200508,
+    "lng": 100.3810836,
+    "name": "Bar Wang Rice"
+  },
+  {
+    "lat": 5.3315093,
+    "lng": 100.4857926,
+    "name": "Bar Wang Rice 霸王饭"
+  },
+  {
+    "lat": 5.1783031,
+    "lng": 100.4815012,
+    "name": "Bar Wang Rice"
+  },
+  {
+    "lat": 5.3650773,
+    "lng": 100.4447107,
+    "name": "霸王饭 Bar Wang Rice"
+  },
+  {
+    "lat": 5.4163264,
+    "lng": 100.3241994,
+    "name": "Bar Wang Rice"
+  },
+  {
+    "lat": 5.3969813,
+    "lng": 100.2856272,
+    "name": "Bar Wang Rice"
+  },
+  {
+    "lat": 6.2399385,
+    "lng": 100.4193286,
+    "name": "Petronas Taman Tengku Maheran"
+  },
+  {
+    "lat": 5.4272186,
+    "lng": 100.6389003,
+    "name": "PETRONAS NGV Sg Kob"
+  },
+  {
+    "lat": 5.6436698,
+    "lng": 100.5177695,
+    "name": "Caltex Jalan Paya Nahu"
+  },
+  {
+    "lat": 5.636483,
+    "lng": 100.496674,
+    "name": "Caltex Jalan Kuala Ketil"
+  },
+  {
+    "lat": 5.622505,
+    "lng": 100.500819,
+    "name": "Caltex Taman Sri Wang"
+  },
+  {
+    "lat": 5.6809101,
+    "lng": 100.4912735,
+    "name": "Caltex Bandar Laguna Merbok"
+  },
+  {
+    "lat": 5.404139,
+    "lng": 100.5531229,
+    "name": "Nansha Auto Garage, Kulim, Kedah"
+  },
+  {
+    "lat": 6.1292614,
+    "lng": 100.365509,
+    "name": "SARANG HUB & CAFE"
+  },
+  {
+    "lat": 5.3877513,
+    "lng": 100.5705704,
+    "name": "Imanaina Frozen & Grocery"
+  },
+  {
+    "lat": 6.4276757,
+    "lng": 100.2736863,
+    "name": "BIG Pharmacy Arau"
+  },
+  {
+    "lat": 5.6436698,
+    "lng": 100.5177695,
+    "name": "Caltex Jalan Paya Nahu"
+  },
+  {
+    "lat": 5.6417217,
+    "lng": 100.5147518,
+    "name": "Petron Seruling"
+  },
+  {
+    "lat": 5.622505,
+    "lng": 100.500819,
+    "name": "Caltex Taman Sri Wang"
+  },
+  {
+    "lat": 5.6809101,
+    "lng": 100.4912735,
+    "name": "Caltex Bandar Laguna Merbok"
+  },
+  {
+    "lat": 6.1512236,
+    "lng": 100.4085853,
+    "name": "J&T Express Taman Vistana Indah Jalan Langgar"
+  },
+  {
+    "lat": 6.0836919,
+    "lng": 100.3659308,
+    "name": "Taman Budiman"
+  },
+  {
+    "lat": 5.9964739,
+    "lng": 100.4802016,
+    "name": "POSSTORE PENDANG P1119"
+  },
+  {
+    "lat": 6.1197842,
+    "lng": 100.3745771,
+    "name": "Art Village thai restaurant"
+  },
+  {
+    "lat": 6.0937338,
+    "lng": 100.3770868,
+    "name": "Sayang Sayang Nursing Care Center"
+  },
+  {
+    "lat": 5.6121027,
+    "lng": 100.4829853,
+    "name": "Dobi Bubblelab"
+  },
+  {
+    "lat": 5.6587869,
+    "lng": 100.4853679,
+    "name": "Petronas Sungai Jagung"
+  },
+  {
+    "lat": 5.616758,
+    "lng": 100.4881181,
+    "name": "Gmart"
+  },
+  {
+    "lat": 6.26403,
+    "lng": 100.419034,
+    "name": "MU PHARMACY"
+  },
+  {
+    "lat": 6.2805616,
+    "lng": 100.419874,
+    "name": "KLINIK AL FATEH, JITRA"
+  },
+  {
+    "lat": 6.1171365,
+    "lng": 100.3647591,
+    "name": "16, Jalan Penjara Lama"
+  },
+  {
+    "lat": 5.655652,
+    "lng": 100.4869399,
+    "name": "Siang Huat"
+  },
+  {
+    "lat": 5.620525,
+    "lng": 100.472182,
+    "name": "Thye Hin Transport Sdn. Bhd."
+  },
+  {
+    "lat": 5.6167773,
+    "lng": 100.5348346,
+    "name": "BEST EXPRESS"
+  },
+  {
+    "lat": 5.6399864,
+    "lng": 100.4844298,
+    "name": "QuinMart SP (Q Mart Trading)"
+  },
+  {
+    "lat": 6.4366916,
+    "lng": 100.1933992,
+    "name": "Food Bank Kangar"
+  },
+  {
+    "lat": 6.39997,
+    "lng": 100.13362,
+    "name": "Ah Mooi Kopitiam"
+  },
+  {
+    "lat": 5.6829489,
+    "lng": 100.368124,
+    "name": "104, Jalan Kampung Nelayan"
+  },
+  {
+    "lat": 5.655824,
+    "lng": 100.487779,
+    "name": "Siang huat Market"
+  },
+  {
+    "lat": 6.1393889,
+    "lng": 100.3579088,
+    "name": "Leo Club of Alor Setar"
+  },
+  {
+    "lat": 6.1075539,
+    "lng": 100.3724409,
+    "name": "Petronas Jalan Tanjung Bendahara"
+  },
+  {
+    "lat": 6.1091389,
+    "lng": 100.361486,
+    "name": "Suhaili Optometris"
+  },
+  {
+    "lat": 6.1406842,
+    "lng": 100.3365709,
+    "name": "AZH Rayhal Empire"
+  },
+  {
+    "lat": 6.1119213,
+    "lng": 100.289307,
+    "name": "Komaya Mart"
+  },
+  {
+    "lat": 6.1509826,
+    "lng": 100.4041791,
+    "name": "Klinik Pergigian Dr Anati Aslah"
+  },
+  {
+    "lat": 5.6394059,
+    "lng": 100.4953589,
+    "name": "Lee Fuel Pump Machinery Service Centre"
+  },
+  {
+    "lat": 6.4358598,
+    "lng": 100.1924841,
+    "name": "ZTO Express Perlis"
+  },
+  {
+    "lat": 6.4353625,
+    "lng": 100.1938101,
+    "name": "U Mobile"
+  },
+  {
+    "lat": 6.0997975,
+    "lng": 100.3645715,
+    "name": "QuinMart PSK"
+  },
+  {
+    "lat": 6.4384256,
+    "lng": 100.1947374,
+    "name": "Happy House mart"
+  },
+  {
+    "lat": 4.5982222,
+    "lng": 101.0992533,
+    "name": "Madam Ho"
+  },
+  {
+    "lat": 4.543417,
+    "lng": 101.071087,
+    "name": "Klinik Pergigian LS"
+  },
+  {
+    "lat": 4.6239808,
+    "lng": 101.1312752,
+    "name": "Best Express Medan Bercham"
+  },
+  {
+    "lat": 4.5495163,
+    "lng": 101.1084536,
+    "name": "Kedai Minuman Dan Makanan Kam Kam 锦锦美食轩"
+  },
+  {
+    "lat": 5.1203665,
+    "lng": 100.4778833,
+    "name": "Petronas Kampung Kedah"
+  },
+  {
+    "lat": 4.831852,
+    "lng": 100.725367,
+    "name": "PETRONAS JALAN SIMPANG"
+  },
+  {
+    "lat": 5.4264776,
+    "lng": 101.1275922,
+    "name": "PETRONAS Gerik"
+  },
+  {
+    "lat": 4.5971378,
+    "lng": 100.8813917,
+    "name": "Petronas Manong"
+  },
+  {
+    "lat": 4.6141296,
+    "lng": 101.0692404,
+    "name": "PETRONAS - Manjoi"
+  },
+  {
+    "lat": 4.6738828,
+    "lng": 101.0760138,
+    "name": "PETRONAS - Bandar Meru Raya"
+  },
+  {
+    "lat": 4.6204715,
+    "lng": 101.1478702,
+    "name": "PETRONAS - Sunway City, Tambun Ipoh"
+  },
+  {
+    "lat": 4.6009824,
+    "lng": 101.1129458,
+    "name": "PETRONAS - Jalan Raja Dihilir"
+  },
+  {
+    "lat": 4.5036884,
+    "lng": 101.0230187,
+    "name": "PETRONAS Batu Gajah Perdana"
+  },
+  {
+    "lat": 4.457306,
+    "lng": 101.1650652,
+    "name": "PETRONAS - Mukim Teja, Ipoh"
+  },
+  {
+    "lat": 4.298649,
+    "lng": 101.159617,
+    "name": "Petronas Kampar"
+  },
+  {
+    "lat": 4.3809743,
+    "lng": 100.9799812,
+    "name": "Petronas UTP"
+  },
+  {
+    "lat": 4.2219385,
+    "lng": 100.6722669,
+    "name": "PETRONAS Aeon Manjung Point"
+  },
+  {
+    "lat": 4.195961,
+    "lng": 100.6656638,
+    "name": "Petronas Sri Manjung 2"
+  },
+  {
+    "lat": 4.4689249,
+    "lng": 100.6327791,
+    "name": "PETRONAS - Pantai Remis - New"
+  },
+  {
+    "lat": 4.115531,
+    "lng": 101.2842191,
+    "name": "Petronas Bidor"
+  },
+  {
+    "lat": 3.8378521,
+    "lng": 101.398497,
+    "name": "PETRONAS - Slim River - New"
+  },
+  {
+    "lat": 4.5770561,
+    "lng": 101.1356727,
+    "name": "Chenyi Trading"
+  },
+  {
+    "lat": 4.5797057,
+    "lng": 101.0541477,
+    "name": "Xin Xi Wang Shan Xin Hospital"
+  },
+  {
+    "lat": 4.631576,
+    "lng": 101.0864239,
+    "name": "Shell"
+  },
+  {
+    "lat": 4.5796226,
+    "lng": 101.0547107,
+    "name": "12, Jalan Mas 4"
+  },
+  {
+    "lat": 3.6976109,
+    "lng": 101.5253901,
+    "name": "Ewan Garage Motor Sport"
+  },
+  {
+    "lat": 4.5535431,
+    "lng": 101.0963533,
+    "name": "King Dr.Nazrin Shah Mosque"
+  },
+  {
+    "lat": 4.6110623,
+    "lng": 101.0637729,
+    "name": "Masjid Al-Ittihadiah"
+  },
+  {
+    "lat": 4.6596207,
+    "lng": 101.0761462,
+    "name": "Masjid Muhammad Al-Fateh"
+  },
+  {
+    "lat": 4.6493773,
+    "lng": 101.0673363,
+    "name": "Masjid Al-Muttaqin, Ipoh"
+  },
+  {
+    "lat": 4.578056,
+    "lng": 101.113564,
+    "name": "Masjid Jamek Iskandar Shah"
+  },
+  {
+    "lat": 4.6283979,
+    "lng": 101.0446823,
+    "name": "Surau At-taqwa Puncak Jelapang Maju"
+  },
+  {
+    "lat": 4.6286848,
+    "lng": 101.0632946,
+    "name": "Surau Nurul Iman"
+  },
+  {
+    "lat": 4.565831,
+    "lng": 101.1051621,
+    "name": "Surau Madrasah Najah"
+  },
+  {
+    "lat": 4.7173511,
+    "lng": 101.1207557,
+    "name": "Masjid Jamek Chemor"
+  },
+  {
+    "lat": 4.6836762,
+    "lng": 101.1270589,
+    "name": "Masjid Jamek Medan Klebang Restu"
+  },
+  {
+    "lat": 4.72538,
+    "lng": 101.1348878,
+    "name": "Masjid At-Taiyyibin"
+  },
+  {
+    "lat": 4.6568303,
+    "lng": 101.0973964,
+    "name": "Masjid Al-Amaniah At-Taiyibah"
+  },
+  {
+    "lat": 4.6694819,
+    "lng": 101.108069,
+    "name": "Nurul Falah Mosque"
+  },
+  {
+    "lat": 4.7229509,
+    "lng": 101.1189979,
+    "name": "Madrasah Pakistani Diniyat"
+  },
+  {
+    "lat": 4.6834978,
+    "lng": 101.091336,
+    "name": "SURAU RAJA HAIRANI TAMAN MERU PERDANA 2"
+  },
+  {
+    "lat": 4.7260695,
+    "lng": 101.1412108,
+    "name": "Surau Nurul Kamaliah"
+  },
+  {
+    "lat": 4.6626881,
+    "lng": 101.103846,
+    "name": "Surau Asy-Syakirin"
+  },
+  {
+    "lat": 4.6507277,
+    "lng": 101.0931306,
+    "name": "Surau Al-Ridzuaniah"
+  },
+  {
+    "lat": 4.579257,
+    "lng": 101.067129,
+    "name": "Masjid Idrisiah"
+  },
+  {
+    "lat": 4.5342005,
+    "lng": 101.086169,
+    "name": "Masjid Al-Hidayah"
+  },
+  {
+    "lat": 4.6193843,
+    "lng": 101.0976797,
+    "name": "Masjid Al-Khairiah"
+  },
+  {
+    "lat": 4.5598975,
+    "lng": 101.0634145,
+    "name": "Surau Al-tolabiah"
+  },
+  {
+    "lat": 4.5677298,
+    "lng": 101.0355145,
+    "name": "Surau As-solihin"
+  },
+  {
+    "lat": 4.5247031,
+    "lng": 101.0686425,
+    "name": "Surau Falah"
+  },
+  {
+    "lat": 4.5403805,
+    "lng": 101.0782957,
+    "name": "Surau Taman Desa Pakatan"
+  },
+  {
+    "lat": 4.5201639,
+    "lng": 101.0667479,
+    "name": "Surau Darus Salam"
+  },
+  {
+    "lat": 4.520065,
+    "lng": 101.0856902,
+    "name": "Surau Al-ikhlas"
+  },
+  {
+    "lat": 4.6610809,
+    "lng": 101.1459311,
+    "name": "Masjid Al-Ittihadiah Bandar Baru Putra"
+  },
+  {
+    "lat": 4.6238169,
+    "lng": 101.1260702,
+    "name": "Al-Ijtimaa'iah Mosque"
+  },
+  {
+    "lat": 4.5754212,
+    "lng": 101.1325868,
+    "name": "Masjid Solatiah"
+  },
+  {
+    "lat": 4.5812348,
+    "lng": 101.126026,
+    "name": "Masjid Syed Muhammad Jamalullail"
+  },
+  {
+    "lat": 4.6492827,
+    "lng": 101.1076471,
+    "name": "Masjid Muhammadiah"
+  },
+  {
+    "lat": 4.5712808,
+    "lng": 101.1252253,
+    "name": "Masjid Sultan Yussuf Rapat Setia"
+  },
+  {
+    "lat": 4.582045,
+    "lng": 101.1309491,
+    "name": "Masjid Al-huda"
+  },
+  {
+    "lat": 4.689351,
+    "lng": 101.167889,
+    "name": "Masjid Jamek Tanjung Rambutan"
+  },
+  {
+    "lat": 4.6148998,
+    "lng": 101.1370722,
+    "name": "Masjid Sayyidina Umar Ibni Khattab"
+  },
+  {
+    "lat": 4.6117161,
+    "lng": 101.1438289,
+    "name": "Masjid Al-hidayah"
+  },
+  {
+    "lat": 4.6293527,
+    "lng": 101.1483852,
+    "name": "Surau Nurul Huda"
+  },
+  {
+    "lat": 4.6336593,
+    "lng": 101.1488794,
+    "name": "Surau Al Huda / Surau Sekolah Rendah Agama Rakyat Al Huda"
+  },
+  {
+    "lat": 4.6646583,
+    "lng": 101.1656078,
+    "name": "Surau Al-islah"
+  },
+  {
+    "lat": 4.6923382,
+    "lng": 101.1541518,
+    "name": "Surau Nur Iman, Tanjung Rambutan, Perak"
+  },
+  {
+    "lat": 4.5183333,
+    "lng": 101.1361111,
+    "name": "Masjid Ahmadiah, Kampung Kepayang"
+  },
+  {
+    "lat": 4.508905,
+    "lng": 101.13958,
+    "name": "Masjid Nur Ramadhan"
+  },
+  {
+    "lat": 4.620229,
+    "lng": 101.1357881,
+    "name": "Masjid Jamil Al-Kholidi"
+  },
+  {
+    "lat": 4.578056,
+    "lng": 101.113564,
+    "name": "Masjid Jamek Iskandar Shah"
+  },
+  {
+    "lat": 3.8913766,
+    "lng": 100.8157219,
+    "name": "Pasar mini babussalam enterprise"
+  },
+  {
+    "lat": 4.5822812,
+    "lng": 101.0867702,
+    "name": "Le Creme"
+  },
+  {
+    "lat": 4.4752908,
+    "lng": 101.1670333,
+    "name": "Pusat Khidmat Ahli Parlimen Gopeng & ADUN Teja"
+  },
+  {
+    "lat": 4.4643805,
+    "lng": 101.1686706,
+    "name": "Gopeng hawker centrer"
+  },
+  {
+    "lat": 4.4582816,
+    "lng": 101.1589393,
+    "name": "Kedai Bunga Ramalamah Lawan Kuda"
+  },
+  {
+    "lat": 4.4590108,
+    "lng": 101.1522488,
+    "name": "Kedai Bob Gerai Wawasan Taman Kinta"
+  },
+  {
+    "lat": 4.6727381,
+    "lng": 101.0779208,
+    "name": "Virus Cafe"
+  },
+  {
+    "lat": 4.6207599,
+    "lng": 101.1501427,
+    "name": "Restoran Samudra Raya"
+  },
+  {
+    "lat": 4.668239,
+    "lng": 101.157351,
+    "name": "Kampung Masjid"
+  },
+  {
+    "lat": 4.6713801,
+    "lng": 101.0776155,
+    "name": "Parcelhub Meru Raya"
+  },
+  {
+    "lat": 4.5371327,
+    "lng": 101.0717164,
+    "name": "Jalan Terkukur"
+  },
+  {
+    "lat": 4.5851837,
+    "lng": 101.0452402,
+    "name": "Posstore Desa Rishah Indah"
+  },
+  {
+    "lat": 4.5456041,
+    "lng": 101.1103322,
+    "name": "58, Lebuh Lapangan Siber 2"
+  },
+  {
+    "lat": 4.6409164,
+    "lng": 101.064086,
+    "name": "MYTOPIA Pet Shop by PetsCare Venture"
+  },
+  {
+    "lat": 4.5749177,
+    "lng": 101.0486077,
+    "name": "Revival Mission Ministries"
+  },
+  {
+    "lat": 4.5500639,
+    "lng": 101.1009987,
+    "name": "One Fresh Grocer Trading"
+  },
+  {
+    "lat": 4.6149217,
+    "lng": 101.1059636,
+    "name": "Posstore Simee Ipoh(P8078)"
+  },
+  {
+    "lat": 4.5287634,
+    "lng": 101.104689,
+    "name": "BHPetrol Bandar Seri Botani"
+  },
+  {
+    "lat": 4.5432932,
+    "lng": 101.1098797,
+    "name": "HTM Pharmacy (Bandar Seri Botani)"
+  },
+  {
+    "lat": 4.8278421,
+    "lng": 100.7192253,
+    "name": "New Edge Safety Door (Taiping)"
+  },
+  {
+    "lat": 4.5541269,
+    "lng": 101.0747639,
+    "name": "K & K Fruits Specialty Trading"
+  },
+  {
+    "lat": 4.830658,
+    "lng": 100.7375299,
+    "name": "177 Pokok Assam Kopitiam"
+  },
+  {
+    "lat": 4.3280287,
+    "lng": 101.1436917,
+    "name": "Le Min Restaurant 乐民茶餐厅"
+  },
+  {
+    "lat": 6.1190441,
+    "lng": 102.2187301,
+    "name": "PETRONAS Pasir Pekan"
+  },
+  {
+    "lat": 6.1170732,
+    "lng": 102.2236455,
+    "name": "PETRONAS Pasir Pekan Hilir"
+  },
+  {
+    "lat": 6.2151489,
+    "lng": 102.1103012,
+    "name": "PETRONAS - Pengkalan Kubor"
+  },
+  {
+    "lat": 5.9091058,
+    "lng": 102.2454449,
+    "name": "PETRONAS - Kok Lanas"
+  },
+  {
+    "lat": 6.069911,
+    "lng": 102.231304,
+    "name": "Petronas Bandar Baru Tunjong"
+  },
+  {
+    "lat": 5.5435633,
+    "lng": 102.2002641,
+    "name": "Petronas Guchil"
+  },
+  {
+    "lat": 5.9490944,
+    "lng": 102.1920663,
+    "name": "PETRONAS CHETOK"
+  },
+  {
+    "lat": 6.0231361,
+    "lng": 102.1170441,
+    "name": "PETRONAS - Kampung Gaung"
+  },
+  {
+    "lat": 5.7692424,
+    "lng": 102.2149634,
+    "name": "Petronas Machang"
+  },
+  {
+    "lat": 4.8634308,
+    "lng": 101.9593484,
+    "name": "PETRONAS @Bandar Gua Musang"
+  },
+  {
+    "lat": 1.5240744,
+    "lng": 103.6777951,
+    "name": "PETRONAS KM 13 Jalan Skudai"
+  },
+  {
+    "lat": 6.0150942,
+    "lng": 101.9826357,
+    "name": "Masjid Jubli Perak Sultan Ismail Petra"
+  },
+  {
+    "lat": 6.1322775,
+    "lng": 102.2566328,
+    "name": "Warung Seksyen 47 Chicken Chop"
+  },
+  {
+    "lat": 6.1041101,
+    "lng": 102.2529641,
+    "name": "Acu Terra Corner Chicken Chop"
+  },
+  {
+    "lat": 6.118858,
+    "lng": 102.1987148,
+    "name": "Wakaf Bharu"
+  },
+  {
+    "lat": 5.329624,
+    "lng": 103.1370142,
+    "name": "Kuala Terengganu"
+  },
+  {
+    "lat": 6.0773247,
+    "lng": 102.2777567,
+    "name": "BHPetrol Kg Chicha,"
+  },
+  {
+    "lat": 5.8313451,
+    "lng": 102.2261065,
+    "name": "BHP Labok"
+  },
+  {
+    "lat": 5.7636526,
+    "lng": 102.2185021,
+    "name": "BHPetrol Machang"
+  },
+  {
+    "lat": 5.8914028,
+    "lng": 102.3359182,
+    "name": "Stesen Minyak BHP Selising"
+  },
+  {
+    "lat": 6.0517166,
+    "lng": 102.222678,
+    "name": "BHPetrol Bandar Baru Tunjung"
+  },
+  {
+    "lat": 6.0339861,
+    "lng": 102.2025681,
+    "name": "BHP Salor"
+  },
+  {
+    "lat": 6.0335466,
+    "lng": 102.1575593,
+    "name": "BHP Salor 2 (Purity Oil Resources)"
+  },
+  {
+    "lat": 6.0472325,
+    "lng": 102.1499016,
+    "name": "Bhp"
+  },
+  {
+    "lat": 6.004297,
+    "lng": 102.2898448,
+    "name": "BHP Petrol Peringat"
+  },
+  {
+    "lat": 6.1196352,
+    "lng": 102.1990544,
+    "name": "BHP - Wakaf Bharu"
+  },
+  {
+    "lat": 6.1250277,
+    "lng": 102.2630586,
+    "name": "BHP petrol Paya Bemban"
+  },
+  {
+    "lat": 6.0468808,
+    "lng": 102.1497118,
+    "name": "BHP Petrol Pasir Mas"
+  },
+  {
+    "lat": 5.7028891,
+    "lng": 101.8300942,
+    "name": "BHPetrol"
+  },
+  {
+    "lat": 5.9553817,
+    "lng": 102.0073869,
+    "name": "BHP Bukit Tandak"
+  },
+  {
+    "lat": 6.1292896,
+    "lng": 102.2350575,
+    "name": "FoodBank Kelantan"
+  },
+  {
+    "lat": 5.2712976,
+    "lng": 103.161168,
+    "name": "C2 JAYA HARDWARE ( M ) SDN BHD ( HQ )"
+  },
+  {
+    "lat": 5.3133735,
+    "lng": 103.1218802,
+    "name": "C2 JAYA HARDWARE ( M ) SDN BHD ( CHABANG TIGA )"
+  },
+  {
+    "lat": 5.735397,
+    "lng": 102.4940481,
+    "name": "C2 JAYA HARDWARE ( M ) SDN BHD ( jerteh )"
+  },
+  {
+    "lat": 5.3119798,
+    "lng": 103.1555989,
+    "name": "Petronas Batu Buruk"
+  },
+  {
+    "lat": 5.3160413,
+    "lng": 103.1507303,
+    "name": "PROTON 3S CENTER KUALA TERENGGANU"
+  },
+  {
+    "lat": 4.239267,
+    "lng": 103.3991514,
+    "name": "Viva Hardware Sdn Bhd"
+  },
+  {
+    "lat": 5.778197,
+    "lng": 102.147533,
+    "name": "Jubah Ikhwan"
+  },
+  {
+    "lat": 5.9829736,
+    "lng": 116.0776288,
+    "name": "Lorong Dewan"
+  },
+  {
+    "lat": 5.9794921,
+    "lng": 116.0733921,
+    "name": "Orange convenient store oka5"
+  },
+  {
+    "lat": 5.9663183,
+    "lng": 116.0642981,
+    "name": "Orange Convenient Store 24HR"
+  },
+  {
+    "lat": 5.9834224,
+    "lng": 116.0752187,
+    "name": "Orange Convenient Store 24HR"
+  },
+  {
+    "lat": 5.8920284,
+    "lng": 116.0474526,
+    "name": "Orange Convenience Store 24HR"
+  },
+  {
+    "lat": 5.9732991,
+    "lng": 116.0682594,
+    "name": "Wawasan Plaza"
+  },
+  {
+    "lat": 5.999936,
+    "lng": 116.1303706,
+    "name": "Dr. Joe Travel Cafe"
+  },
+  {
+    "lat": 5.9854144,
+    "lng": 116.1223246,
+    "name": "Ninso Kolombong"
+  },
+  {
+    "lat": 5.7371236,
+    "lng": 115.939061,
+    "name": "Ninso Papar"
+  },
+  {
+    "lat": 5.3582,
+    "lng": 116.1748428,
+    "name": "Ninso Keningau"
+  },
+  {
+    "lat": 5.3422141,
+    "lng": 115.7408123,
+    "name": "Ninso Beaufort"
+  },
+  {
+    "lat": 5.8697169,
+    "lng": 118.0674709,
+    "name": "Ninso Sandakan"
+  },
+  {
+    "lat": 5.9735989,
+    "lng": 116.0681732,
+    "name": "Ninso Wawasan Plaza"
+  },
+  {
+    "lat": 1.4551793,
+    "lng": 110.4467687,
+    "name": "Ninso Kota Samarahan"
+  },
+  {
+    "lat": 1.50786,
+    "lng": 110.2977066,
+    "name": "Ninso Batu Kawa"
+  },
+  {
+    "lat": 1.5073951,
+    "lng": 110.2985474,
+    "name": "BIG Pharmacy Batu Kawa"
+  },
+  {
+    "lat": 1.5548319,
+    "lng": 110.253364,
+    "name": "Shell"
+  },
+  {
+    "lat": 1.5067265,
+    "lng": 110.3357737,
+    "name": "Shell"
+  },
+  {
+    "lat": 1.5148099,
+    "lng": 110.3112528,
+    "name": "冰冰茶室"
+  },
+  {
+    "lat": 4.0967553,
+    "lng": 104.8048477,
+    "name": "Malaysia - FoodBank.Digital"
+  },
+  {
+    "lat": 3.34031,
+    "lng": 104.688557,
+    "name": "Malaysia - HKSS"
+  },
+  {
+    "lat": 2.8110166,
+    "lng": 106.8294966,
+    "name": "Malaysia - TT Live Mall"
+  },
+  {
+    "lat": 1.8581513,
+    "lng": 105.3778465,
+    "name": "Malaysia - kitajaga.co"
+  },
+  {
+    "lat": 2.2208754,
+    "lng": 106.5134913,
+    "name": "Malaysia - Kitaboleh"
+  },
+  {
+    "lat": 3.2085237,
+    "lng": 101.6481407,
+    "name": "KL & Selanogr - Tzu Chi FOOD CARE"
+  },
+  {
+    "lat": 2.6805952,
+    "lng": 101.2972143,
+    "name": "KL & Selangor - MyKRIS"
+  },
+  {
+    "lat": 2.9695871,
+    "lng": 104.68119,
+    "name": "Selangor - Food Bank Movement"
+  },
+  {
+    "lat": 3.044917,
+    "lng": 101.4455621,
+    "name": "Selangor - Klang"
+  },
+  {
+    "lat": 3.0138172,
+    "lng": 101.4293768,
+    "name": "Selangor - Klang (YB Charles Santiago)"
+  },
+  {
+    "lat": 3.2221275,
+    "lng": 101.6541802,
+    "name": "Selangor - Jinjang"
+  },
+  {
+    "lat": 3.1293125,
+    "lng": 101.7490736,
+    "name": "Selangor - Ampang (Abang Koh)"
+  },
+  {
+    "lat": 3.0418032,
+    "lng": 101.7930748,
+    "name": "Selangor - Balakong, Sungai Long, BMC"
+  },
+  {
+    "lat": 1.4950604,
+    "lng": 103.2608612,
+    "name": "Johor - Mount Austin"
+  },
+  {
+    "lat": 1.41552,
+    "lng": 103.2567263,
+    "name": "Johor - Taman Cahaya Puteri"
+  },
+  {
+    "lat": 1.5070109,
+    "lng": 103.6383036,
+    "name": "Johor - 448 FOOD BANK (JOHOR)"
+  },
+  {
+    "lat": 4.851932,
+    "lng": 100.7416339,
+    "name": "Perak - Taiping"
+  },
+  {
+    "lat": 5.0144147,
+    "lng": 106.3612929,
+    "name": "Bendera Putih (SOS)"
+  },
+  {
+    "lat": 2.4170429,
+    "lng": 105.8021164,
+    "name": "Malaysia - The Lost Food Project"
+  }
+ ]
