@@ -1,0 +1,47 @@
+html {
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: "Indie Flower", cursive;
+    text-align: center;
+    font-size: 40px;
+    padding: 3rem;
+}
+
+h2 {
+    font-family: 'Indie Flower', cursive;
+    text-align: left;
+    font-size:30px;
+    padding: 3rem
+}
+
+#map {
+    height: 60vh; 
+}
+.spanthing {
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+
+input[type="button"] {
+    font-family: 'Indie Flower', cursive;
+    background-color: gray;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+input[type="textbox"] {
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
